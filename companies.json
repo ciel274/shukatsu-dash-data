@@ -1,0 +1,2205 @@
+{
+  "version": "2026.1",
+  "updatedAt": "2026-07-03",
+  "note": "締切日は変更される場合があります。各社公式サイトで必ず確認してください。",
+  "companies": [
+    {
+      "id": "toyota",
+      "companyName": "トヨタ自動車",
+      "industry": "maker_auto",
+      "website": "https://toyota.jp",
+      "recruitUrl": "https://www.toyota-recruit.com/",
+      "internships": [
+        {
+          "id": "toyota-intern-summer",
+          "name": "夏季インターンシップ",
+          "internType": "5days以上",
+          "deadline": "2026-07-15",
+          "period": "8月中旬（5日間）",
+          "format": "対面",
+          "location": "愛知県豊田市",
+          "courses": [
+            { "name": "モビリティエンジニアリングコース", "description": "次世代モビリティの設計・開発を体験。エンジン、車体、電動化技術など専門分野に分かれて実際の開発業務に挑戦します。" },
+            { "name": "ITエンジニアリングコース", "description": "コネクテッドカーやMaaS基盤となるソフトウェア・システム開発を体験。" },
+            { "name": "事務系ビジネスコース", "description": "調達・生産管理・海外事業など事務系職種の業務を体感するワークショップ型。" }
+          ]
+        },
+        {
+          "id": "toyota-intern-winter",
+          "name": "冬季ワークショップ",
+          "internType": "1day仕事体験",
+          "deadline": "2026-11-20",
+          "period": "12月（1日）",
+          "format": "オンライン",
+          "location": "オンライン",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-03-31",
+        "selectionFlow": "ES・適性検査 → 1次面接 → 2次面接 → 最終面接",
+        "positions": ["技術職", "事務職"]
+      }
+    },
+    {
+      "id": "honda",
+      "companyName": "本田技研工業",
+      "industry": "maker_auto",
+      "website": "https://www.honda.co.jp",
+      "recruitUrl": "https://www.honda-recruit.jp/",
+      "internships": [
+        {
+          "id": "honda-intern-summer",
+          "name": "夏季インターンシップ",
+          "internType": "3days",
+          "deadline": "2026-07-10",
+          "period": "8月下旬（3日間）",
+          "format": "対面",
+          "location": "埼玉県／栃木県",
+          "courses": [
+            { "name": "研究開発コース", "description": "四輪・二輪・パワープロダクツの先行研究や量産開発を体験します。" },
+            { "name": "生産技術コース", "description": "ものづくりの現場で生産ラインの設計・改善を学びます。" }
+          ]
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-10",
+        "selectionFlow": "ES → 適性検査 → 面接（複数回）",
+        "positions": ["技術系", "事務系"]
+      }
+    },
+    {
+      "id": "nissan",
+      "companyName": "日産自動車",
+      "industry": "maker_auto",
+      "website": "https://www.nissan-global.com",
+      "recruitUrl": "https://www.nissan.co.jp/RECRUIT/",
+      "internships": [
+        {
+          "id": "nissan-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "5days以上",
+          "deadline": "2026-07-20",
+          "period": "9月上旬（5日間）",
+          "format": "ハイブリッド",
+          "location": "神奈川県横浜市",
+          "courses": [
+            { "name": "電動化・EV技術コース", "description": "EVパワートレインやバッテリー技術の開発現場を体験します。" }
+          ]
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-05",
+        "selectionFlow": "ES・Webテスト → 面接2回 → 最終面接",
+        "positions": ["技術系", "事務系"]
+      }
+    },
+    {
+      "id": "denso",
+      "companyName": "デンソー",
+      "industry": "maker_auto",
+      "website": "https://www.denso.com",
+      "recruitUrl": "https://careers.denso.com/",
+      "internships": [
+        {
+          "id": "denso-intern-summer",
+          "name": "技術系インターンシップ",
+          "internType": "5days以上",
+          "deadline": "2026-07-18",
+          "period": "8月（5日間）",
+          "format": "対面",
+          "location": "愛知県刈谷市",
+          "courses": [
+            { "name": "ソフトウェア開発コース", "description": "車載ソフトや半導体、AIを活用した先端開発を体験します。" },
+            { "name": "ハードウェア開発コース", "description": "センサ・ECUなど電子部品の設計開発に挑戦します。" }
+          ]
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-15",
+        "selectionFlow": "ES → Webテスト → 面接2回",
+        "positions": ["技術職", "事務職"]
+      }
+    },
+    {
+      "id": "aisin",
+      "companyName": "アイシン",
+      "industry": "maker_auto",
+      "website": "https://www.aisin.com",
+      "recruitUrl": "https://www.aisin-recruit.jp/",
+      "internships": [
+        {
+          "id": "aisin-intern-summer",
+          "name": "夏季インターンシップ",
+          "internType": "2days",
+          "deadline": "2026-07-25",
+          "period": "8月下旬（2日間）",
+          "format": "対面",
+          "location": "愛知県刈谷市",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-20",
+        "selectionFlow": "ES → Webテスト → 面接",
+        "positions": ["技術系", "事務系"]
+      }
+    },
+    {
+      "id": "bosch-japan",
+      "companyName": "ボッシュ",
+      "industry": "maker_auto",
+      "website": "https://www.bosch.co.jp",
+      "recruitUrl": "https://www.bosch.co.jp/careers/",
+      "internships": [
+        {
+          "id": "bosch-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "3days",
+          "deadline": "2026-08-05",
+          "period": "9月（3日間）",
+          "format": "ハイブリッド",
+          "location": "東京都",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-05-10",
+        "selectionFlow": "ES → 面接 → 最終面接",
+        "positions": ["エンジニア", "ビジネス"]
+      }
+    },
+    {
+      "id": "sony",
+      "companyName": "ソニーグループ",
+      "industry": "maker_elec",
+      "website": "https://www.sony.com",
+      "recruitUrl": "https://www.sony.co.jp/careers/",
+      "internships": [
+        {
+          "id": "sony-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "5days以上",
+          "deadline": "2026-07-12",
+          "period": "8月〜9月（10日間程度）",
+          "format": "ハイブリッド",
+          "location": "東京都港区",
+          "courses": [
+            { "name": "ソフトウェアエンジニアリングコース", "description": "エンタメ・エレクトロニクス領域のソフト開発を実務レベルで体験します。" },
+            { "name": "ハードウェアエンジニアリングコース", "description": "半導体・イメージセンサ・オーディオ機器の設計開発に挑戦します。" },
+            { "name": "データサイエンスコース", "description": "AI・機械学習を活用したデータ解析プロジェクトに取り組みます。" }
+          ]
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-03-25",
+        "selectionFlow": "ES・適性検査 → 面接複数回 → 最終面接",
+        "positions": ["技術系", "事務系"]
+      }
+    },
+    {
+      "id": "panasonic",
+      "companyName": "パナソニック",
+      "industry": "maker_elec",
+      "website": "https://www.panasonic.com",
+      "recruitUrl": "https://www.panasonic.com/jp/company/recruit.html",
+      "internships": [
+        {
+          "id": "panasonic-intern-summer",
+          "name": "夏季インターンシップ",
+          "internType": "5days以上",
+          "deadline": "2026-07-22",
+          "period": "8月（5日間）",
+          "format": "ハイブリッド",
+          "location": "大阪府門真市",
+          "courses": [
+            { "name": "技術系コース", "description": "家電・車載・住宅設備など幅広い領域の開発現場を体験します。" }
+          ]
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-01",
+        "selectionFlow": "ES → Webテスト → 面接2回",
+        "positions": ["技術系", "事務系"]
+      }
+    },
+    {
+      "id": "hitachi",
+      "companyName": "日立製作所",
+      "industry": "maker_elec",
+      "website": "https://www.hitachi.co.jp",
+      "recruitUrl": "https://www.hitachi.co.jp/recruit/",
+      "internships": [
+        {
+          "id": "hitachi-intern-summer",
+          "name": "ジョブマッチング型インターンシップ",
+          "internType": "5days以上",
+          "deadline": "2026-07-30",
+          "period": "8月〜9月（10日間）",
+          "format": "ハイブリッド",
+          "location": "全国拠点",
+          "courses": [
+            { "name": "デジタルシステム＆サービスコース", "description": "Lumadaを軸としたDX・社会インフラのシステム開発を体験します。" },
+            { "name": "グリーンエナジー＆モビリティコース", "description": "エネルギー・鉄道など社会インフラ事業の開発に取り組みます。" }
+          ]
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-03-31",
+        "selectionFlow": "ES → Webテスト → ジョブマッチング面談 → 面接",
+        "positions": ["技術系", "事務系"]
+      }
+    },
+    {
+      "id": "fujitsu",
+      "companyName": "富士通",
+      "industry": "it",
+      "website": "https://www.fujitsu.com",
+      "recruitUrl": "https://www.fujitsu.com/jp/about/recruit/",
+      "internships": [
+        {
+          "id": "fujitsu-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "5days以上",
+          "deadline": "2026-07-14",
+          "period": "8月〜9月（5日間）",
+          "format": "オンライン",
+          "location": "オンライン",
+          "courses": [
+            { "name": "SEコース", "description": "大規模システムの上流工程からエンジニアリングを体験します。" },
+            { "name": "研究職コース", "description": "AI・量子・セキュリティなど先端技術の研究に触れます。" }
+          ]
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-05",
+        "selectionFlow": "ES → Webテスト → 面接2回",
+        "positions": ["SE", "営業", "コーポレート"]
+      }
+    },
+    {
+      "id": "nec",
+      "companyName": "NEC",
+      "industry": "it",
+      "website": "https://www.nec.com",
+      "recruitUrl": "https://jpn.nec.com/newgrad/",
+      "internships": [
+        {
+          "id": "nec-intern-summer",
+          "name": "夏季インターンシップ",
+          "internType": "3days",
+          "deadline": "2026-07-16",
+          "period": "8月（3日間）",
+          "format": "ハイブリッド",
+          "location": "東京都港区",
+          "courses": [
+            { "name": "ソフトウェア開発コース", "description": "生体認証やAIなどNECの強み領域の開発を体験します。" }
+          ]
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-10",
+        "selectionFlow": "ES → Webテスト → 面接",
+        "positions": ["技術系", "事務系"]
+      }
+    },
+    {
+      "id": "nttdata",
+      "companyName": "NTTデータ",
+      "industry": "it",
+      "website": "https://www.nttdata.com",
+      "recruitUrl": "https://www.nttdata.com/jp/ja/recruit/",
+      "internships": [
+        {
+          "id": "nttdata-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "5days以上",
+          "deadline": "2026-07-08",
+          "period": "8月〜9月（2週間）",
+          "format": "ハイブリッド",
+          "location": "東京都江東区",
+          "courses": [
+            { "name": "SEコース", "description": "公共・金融など大規模システムの企画・開発を実務で体験します。" },
+            { "name": "コンサルコース", "description": "顧客課題の分析からソリューション提案までを体験します。" }
+          ]
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-03-28",
+        "selectionFlow": "ES → Webテスト → GD → 面接複数回",
+        "positions": ["SE", "コンサル", "営業"]
+      }
+    },
+    {
+      "id": "keyence",
+      "companyName": "キーエンス",
+      "industry": "maker_elec",
+      "website": "https://www.keyence.co.jp",
+      "recruitUrl": "https://www.keyence.co.jp/company/recruit/",
+      "internships": [
+        {
+          "id": "keyence-intern-summer",
+          "name": "技術職インターンシップ",
+          "internType": "1day仕事体験",
+          "deadline": "2026-08-10",
+          "period": "9月（1日）",
+          "format": "対面",
+          "location": "大阪府",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-30",
+        "selectionFlow": "ES → 適性検査 → 面接複数回",
+        "positions": ["技術職", "営業職"]
+      }
+    },
+    {
+      "id": "omron",
+      "companyName": "オムロン",
+      "industry": "maker_elec",
+      "website": "https://www.omron.com",
+      "recruitUrl": "https://www.omron.co.jp/recruit/",
+      "internships": [
+        {
+          "id": "omron-intern-summer",
+          "name": "夏季インターンシップ",
+          "internType": "2days",
+          "deadline": "2026-07-28",
+          "period": "8月（2日間）",
+          "format": "ハイブリッド",
+          "location": "京都府",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-18",
+        "selectionFlow": "ES → Webテスト → 面接",
+        "positions": ["技術系", "事務系"]
+      }
+    },
+    {
+      "id": "canon",
+      "companyName": "キヤノン",
+      "industry": "maker_elec",
+      "website": "https://global.canon",
+      "recruitUrl": "https://rc.canon.jp/",
+      "internships": [
+        {
+          "id": "canon-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "5days以上",
+          "deadline": "2026-07-19",
+          "period": "8月〜9月（5日間）",
+          "format": "対面",
+          "location": "東京都大田区",
+          "courses": [
+            { "name": "ソフトウェア開発コース", "description": "カメラ・医療機器などの組込・アプリ開発を体験します。" }
+          ]
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-08",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["技術系", "事務系"]
+      }
+    },
+    {
+      "id": "nikon",
+      "companyName": "ニコン",
+      "industry": "maker_elec",
+      "website": "https://www.nikon.co.jp",
+      "recruitUrl": "https://www.nikon.co.jp/saiyo/",
+      "internships": [
+        {
+          "id": "nikon-intern-summer",
+          "name": "夏季インターンシップ",
+          "internType": "3days",
+          "deadline": "2026-08-01",
+          "period": "9月（3日間）",
+          "format": "ハイブリッド",
+          "location": "神奈川県横浜市",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-25",
+        "selectionFlow": "ES → Webテスト → 面接",
+        "positions": ["技術系", "事務系"]
+      }
+    },
+    {
+      "id": "olympus",
+      "companyName": "オリンパス",
+      "industry": "maker_med",
+      "website": "https://www.olympus.co.jp",
+      "recruitUrl": "https://www.olympus.co.jp/company/recruit/",
+      "internships": [
+        {
+          "id": "olympus-intern-summer",
+          "name": "医療技術インターンシップ",
+          "internType": "2days",
+          "deadline": "2026-08-08",
+          "period": "9月（2日間）",
+          "format": "ハイブリッド",
+          "location": "東京都八王子市",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-05-01",
+        "selectionFlow": "ES → Webテスト → 面接",
+        "positions": ["技術系", "事務系"]
+      }
+    },
+    {
+      "id": "shimadzu",
+      "companyName": "島津製作所",
+      "industry": "maker_elec",
+      "website": "https://www.shimadzu.co.jp",
+      "recruitUrl": "https://www.shimadzu.co.jp/recruit/",
+      "internships": [
+        {
+          "id": "shimadzu-intern-summer",
+          "name": "夏季インターンシップ",
+          "internType": "2days",
+          "deadline": "2026-08-12",
+          "period": "9月（2日間）",
+          "format": "対面",
+          "location": "京都府",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-28",
+        "selectionFlow": "ES → Webテスト → 面接",
+        "positions": ["技術系", "事務系"]
+      }
+    },
+    {
+      "id": "nintendo",
+      "companyName": "任天堂",
+      "industry": "game",
+      "website": "https://www.nintendo.co.jp",
+      "recruitUrl": "https://www.nintendo.co.jp/jobs/",
+      "internships": [
+        {
+          "id": "nintendo-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "5days以上",
+          "deadline": "2026-07-05",
+          "period": "8月（5日間）",
+          "format": "対面",
+          "location": "京都府",
+          "courses": [
+            { "name": "ソフトウェア開発コース", "description": "ゲーム開発に必要なプログラミング技術を実践的に学びます。" },
+            { "name": "デザインコース", "description": "ゲーム制作におけるUI・キャラクターデザインを体験します。" }
+          ]
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-03-20",
+        "selectionFlow": "ES → 作品選考 → 面接複数回",
+        "positions": ["技術系", "デザイン", "制作"]
+      }
+    },
+    {
+      "id": "bandainamco",
+      "companyName": "バンダイナムコエンターテインメント",
+      "industry": "game",
+      "website": "https://www.bandainamcoent.co.jp",
+      "recruitUrl": "https://www.bandainamcoent.co.jp/company/recruit/",
+      "internships": [
+        {
+          "id": "bandainamco-intern-summer",
+          "name": "ゲームクリエイターインターン",
+          "internType": "3days",
+          "deadline": "2026-07-26",
+          "period": "8月（3日間）",
+          "format": "対面",
+          "location": "東京都港区",
+          "courses": [
+            { "name": "プランナーコース", "description": "ゲーム企画の立案から仕様作成までを体験します。" }
+          ]
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-12",
+        "selectionFlow": "ES → 適性検査 → 面接複数回",
+        "positions": ["企画", "エンジニア", "デザイン"]
+      }
+    },
+    {
+      "id": "sega",
+      "companyName": "セガ",
+      "industry": "game",
+      "website": "https://www.sega.co.jp",
+      "recruitUrl": "https://www.sega.co.jp/recruit/",
+      "internships": [
+        {
+          "id": "sega-intern-summer",
+          "name": "ゲーム制作インターンシップ",
+          "internType": "3days",
+          "deadline": "2026-08-03",
+          "period": "9月（3日間）",
+          "format": "ハイブリッド",
+          "location": "東京都品川区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-20",
+        "selectionFlow": "ES → 作品提出 → 面接",
+        "positions": ["エンジニア", "デザイナー", "プランナー"]
+      }
+    },
+    {
+      "id": "konami",
+      "companyName": "コナミ",
+      "industry": "game",
+      "website": "https://www.konami.com",
+      "recruitUrl": "https://www.konami.com/careers/jp/ja/",
+      "internships": [
+        {
+          "id": "konami-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "2days",
+          "deadline": "2026-08-06",
+          "period": "9月（2日間）",
+          "format": "対面",
+          "location": "東京都中央区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-22",
+        "selectionFlow": "ES → 適性検査 → 面接",
+        "positions": ["技術", "デザイン", "企画"]
+      }
+    },
+    {
+      "id": "recruit",
+      "companyName": "リクルート",
+      "industry": "web",
+      "website": "https://www.recruit.co.jp",
+      "recruitUrl": "https://www.recruit.co.jp/employment/students/",
+      "internships": [
+        {
+          "id": "recruit-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "5days以上",
+          "deadline": "2026-07-06",
+          "period": "8月〜9月（5日間）",
+          "format": "ハイブリッド",
+          "location": "東京都千代田区",
+          "courses": [
+            { "name": "エンジニアコース", "description": "実際のプロダクト開発チームに参加し、開発の一連を体験します。" },
+            { "name": "ビジネスコース", "description": "新規事業立案のワークを通じてビジネス開発を体感します。" }
+          ]
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-03-15",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["ビジネス", "エンジニア"]
+      }
+    },
+    {
+      "id": "cyberagent",
+      "companyName": "サイバーエージェント",
+      "industry": "web",
+      "website": "https://www.cyberagent.co.jp",
+      "recruitUrl": "https://www.cyberagent.co.jp/careers/students/",
+      "internships": [
+        {
+          "id": "cyberagent-intern-summer",
+          "name": "エンジニアサマーインターン",
+          "internType": "5days以上",
+          "deadline": "2026-07-09",
+          "period": "8月〜9月（2週間）",
+          "format": "ハイブリッド",
+          "location": "東京都渋谷区",
+          "courses": [
+            { "name": "バックエンドコース", "description": "大規模サービスのサーバーサイド開発に取り組みます。" },
+            { "name": "AI/機械学習コース", "description": "広告・レコメンドなどのML開発を実践します。" }
+          ]
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-03-31",
+        "selectionFlow": "ES → 面接複数回",
+        "positions": ["エンジニア", "ビジネス", "クリエイター"]
+      }
+    },
+    {
+      "id": "dena",
+      "companyName": "ディー・エヌ・エー",
+      "industry": "web",
+      "website": "https://dena.com",
+      "recruitUrl": "https://fulltime.dena.com/",
+      "internships": [
+        {
+          "id": "dena-intern-summer",
+          "name": "エンジニアインターン",
+          "internType": "5days以上",
+          "deadline": "2026-07-11",
+          "period": "8月（3週間）",
+          "format": "ハイブリッド",
+          "location": "東京都渋谷区",
+          "courses": [
+            { "name": "ソフトウェアエンジニアコース", "description": "実務プロジェクトに配属され開発に取り組みます。" }
+          ]
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-03-25",
+        "selectionFlow": "ES → コーディングテスト → 面接複数回",
+        "positions": ["エンジニア", "ビジネス", "デザイナー"]
+      }
+    },
+    {
+      "id": "mercari",
+      "companyName": "メルカリ",
+      "industry": "web",
+      "website": "https://about.mercari.com",
+      "recruitUrl": "https://careers.mercari.com/",
+      "internships": [
+        {
+          "id": "mercari-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "5days以上",
+          "deadline": "2026-07-13",
+          "period": "8月〜9月（6週間）",
+          "format": "ハイブリッド",
+          "location": "東京都港区",
+          "courses": [
+            { "name": "ソフトウェアエンジニアコース", "description": "マイクロサービス環境での開発を体験します。" }
+          ]
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-30",
+        "selectionFlow": "ES → コーディング試験 → 面接複数回",
+        "positions": ["エンジニア", "BizDev", "デザイナー"]
+      }
+    },
+    {
+      "id": "lineyahoo",
+      "companyName": "LINEヤフー",
+      "industry": "web",
+      "website": "https://www.lycorp.co.jp",
+      "recruitUrl": "https://www.lycorp.co.jp/ja/recruit/newgraduate/",
+      "internships": [
+        {
+          "id": "lineyahoo-intern-summer",
+          "name": "エンジニア就業型インターン",
+          "internType": "5days以上",
+          "deadline": "2026-07-17",
+          "period": "8月〜9月（2週間）",
+          "format": "ハイブリッド",
+          "location": "東京都千代田区",
+          "courses": [
+            { "name": "サーバーサイドコース", "description": "大規模サービスのバックエンド開発を体験します。" },
+            { "name": "データサイエンスコース", "description": "検索・レコメンドのデータ分析に取り組みます。" }
+          ]
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-10",
+        "selectionFlow": "ES → コーディングテスト → 面接複数回",
+        "positions": ["エンジニア", "デザイナー", "企画"]
+      }
+    },
+    {
+      "id": "sansan",
+      "companyName": "Sansan",
+      "industry": "web",
+      "website": "https://jp.corp-sansan.com",
+      "recruitUrl": "https://media.sansan-engineering.com/newgrad",
+      "internships": [
+        {
+          "id": "sansan-intern-summer",
+          "name": "エンジニアインターン",
+          "internType": "5days以上",
+          "deadline": "2026-07-24",
+          "period": "8月（1週間）",
+          "format": "ハイブリッド",
+          "location": "東京都渋谷区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-15",
+        "selectionFlow": "ES → コーディング試験 → 面接",
+        "positions": ["エンジニア", "ビジネス"]
+      }
+    },
+    {
+      "id": "freee",
+      "companyName": "freee",
+      "industry": "web",
+      "website": "https://corp.freee.co.jp",
+      "recruitUrl": "https://jobs.freee.co.jp/newgrads/",
+      "internships": [
+        {
+          "id": "freee-intern-summer",
+          "name": "サマーインターン",
+          "internType": "3days",
+          "deadline": "2026-07-27",
+          "period": "8月（3日間）",
+          "format": "オンライン",
+          "location": "オンライン",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-20",
+        "selectionFlow": "ES → コーディング試験 → 面接",
+        "positions": ["エンジニア", "デザイナー", "ビジネス"]
+      }
+    },
+    {
+      "id": "smarthr",
+      "companyName": "SmartHR",
+      "industry": "web",
+      "website": "https://smarthr.co.jp",
+      "recruitUrl": "https://hello.smarthr.co.jp/newgrad",
+      "internships": [
+        {
+          "id": "smarthr-intern-summer",
+          "name": "プロダクト開発インターン",
+          "internType": "3days",
+          "deadline": "2026-08-02",
+          "period": "9月（3日間）",
+          "format": "オンライン",
+          "location": "オンライン",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-25",
+        "selectionFlow": "ES → 面接複数回",
+        "positions": ["エンジニア", "デザイナー"]
+      }
+    },
+    {
+      "id": "chatwork",
+      "companyName": "kubell（旧Chatwork）",
+      "industry": "web",
+      "website": "https://corp.kubell.com",
+      "recruitUrl": "https://recruit.kubell.com/",
+      "internships": [
+        {
+          "id": "chatwork-intern-summer",
+          "name": "エンジニアインターン",
+          "internType": "2days",
+          "deadline": "2026-08-09",
+          "period": "9月（2日間）",
+          "format": "オンライン",
+          "location": "オンライン",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-05-01",
+        "selectionFlow": "ES → 面接複数回",
+        "positions": ["エンジニア", "ビジネス"]
+      }
+    },
+    {
+      "id": "zozo",
+      "companyName": "ZOZO",
+      "industry": "web",
+      "website": "https://corp.zozo.com",
+      "recruitUrl": "https://recruit.zozo.com/",
+      "internships": [
+        {
+          "id": "zozo-intern-summer",
+          "name": "テックインターン",
+          "internType": "3days",
+          "deadline": "2026-07-29",
+          "period": "8月（3日間）",
+          "format": "ハイブリッド",
+          "location": "千葉県千葉市",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-18",
+        "selectionFlow": "ES → コーディングテスト → 面接",
+        "positions": ["エンジニア", "デザイナー", "ビジネス"]
+      }
+    },
+    {
+      "id": "mufg",
+      "companyName": "三菱UFJ銀行",
+      "industry": "finance",
+      "website": "https://www.mufg.jp",
+      "recruitUrl": "https://www.saiyo.bk.mufg.jp/",
+      "internships": [
+        {
+          "id": "mufg-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "5days以上",
+          "deadline": "2026-07-07",
+          "period": "8月〜9月（5日間）",
+          "format": "ハイブリッド",
+          "location": "東京都千代田区",
+          "courses": [
+            { "name": "オープンコース", "description": "銀行のビジネスモデルを幅広く学ぶワーク型プログラムです。" },
+            { "name": "グローバルコース", "description": "海外事業・法人営業の実務を体感します。" }
+          ]
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-03-20",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["総合職"]
+      }
+    },
+    {
+      "id": "smbc",
+      "companyName": "三井住友銀行",
+      "industry": "finance",
+      "website": "https://www.smbc.co.jp",
+      "recruitUrl": "https://www.smbc.co.jp/recruit/",
+      "internships": [
+        {
+          "id": "smbc-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "5days以上",
+          "deadline": "2026-07-08",
+          "period": "8月〜9月（5日間）",
+          "format": "ハイブリッド",
+          "location": "東京都千代田区",
+          "courses": [
+            { "name": "総合職コース", "description": "法人・リテール・市場など幅広い業務を体験します。" }
+          ]
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-03-22",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["総合職", "リテールコース"]
+      }
+    },
+    {
+      "id": "mizuho",
+      "companyName": "みずほフィナンシャルグループ",
+      "industry": "finance",
+      "website": "https://www.mizuho-fg.co.jp",
+      "recruitUrl": "https://www.mizuho-fg.co.jp/saiyou/",
+      "internships": [
+        {
+          "id": "mizuho-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "5days以上",
+          "deadline": "2026-07-10",
+          "period": "8月〜9月（5日間）",
+          "format": "ハイブリッド",
+          "location": "東京都千代田区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-03-25",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["基幹職", "特定職"]
+      }
+    },
+    {
+      "id": "nomura",
+      "companyName": "野村證券",
+      "industry": "securities",
+      "website": "https://www.nomura.com",
+      "recruitUrl": "https://www.nomura.co.jp/recruit/",
+      "internships": [
+        {
+          "id": "nomura-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "5days以上",
+          "deadline": "2026-07-04",
+          "period": "8月（1週間）",
+          "format": "対面",
+          "location": "東京都中央区",
+          "courses": [
+            { "name": "オープンコース", "description": "証券ビジネス全般を体験するワーク型プログラムです。" },
+            { "name": "投資銀行コース", "description": "M&Aや資金調達などIB業務を体感します。" }
+          ]
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-03-18",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["オープン", "IB", "リサーチ"]
+      }
+    },
+    {
+      "id": "daiwa",
+      "companyName": "大和証券",
+      "industry": "securities",
+      "website": "https://www.daiwa.jp",
+      "recruitUrl": "https://www.daiwa-grp.jp/recruit/",
+      "internships": [
+        {
+          "id": "daiwa-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "3days",
+          "deadline": "2026-07-15",
+          "period": "8月（3日間）",
+          "format": "ハイブリッド",
+          "location": "東京都千代田区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-03-28",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["総合職"]
+      }
+    },
+    {
+      "id": "smbc-nikko",
+      "companyName": "SMBC日興証券",
+      "industry": "securities",
+      "website": "https://www.smbcnikko.co.jp",
+      "recruitUrl": "https://www.smbcnikko.co.jp/company/recruit/",
+      "internships": [
+        {
+          "id": "smbc-nikko-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "3days",
+          "deadline": "2026-07-20",
+          "period": "8月（3日間）",
+          "format": "ハイブリッド",
+          "location": "東京都千代田区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-01",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["総合職"]
+      }
+    },
+    {
+      "id": "tokiomarine",
+      "companyName": "東京海上日動火災保険",
+      "industry": "insurance",
+      "website": "https://www.tokiomarine-nichido.co.jp",
+      "recruitUrl": "https://www.tokiomarine-nichido-saiyo.com/",
+      "internships": [
+        {
+          "id": "tokiomarine-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "3days",
+          "deadline": "2026-07-12",
+          "period": "8月〜9月（3日間）",
+          "format": "ハイブリッド",
+          "location": "東京都千代田区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-03-30",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["総合職", "エリアコース"]
+      }
+    },
+    {
+      "id": "dai-ichi-life",
+      "companyName": "第一生命保険",
+      "industry": "insurance",
+      "website": "https://www.dai-ichi-life.co.jp",
+      "recruitUrl": "https://www.dai-ichi-life-saiyo.com/",
+      "internships": [
+        {
+          "id": "dai-ichi-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "2days",
+          "deadline": "2026-07-22",
+          "period": "8月（2日間）",
+          "format": "ハイブリッド",
+          "location": "東京都千代田区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-05",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["基幹職", "アクチュアリー"]
+      }
+    },
+    {
+      "id": "mckinsey",
+      "companyName": "マッキンゼー・アンド・カンパニー",
+      "industry": "consult",
+      "website": "https://www.mckinsey.com",
+      "recruitUrl": "https://www.mckinsey.com/careers",
+      "internships": [
+        {
+          "id": "mckinsey-intern-summer",
+          "name": "サマーインターン（BA）",
+          "internType": "5days以上",
+          "deadline": "2026-07-03",
+          "period": "8月（1週間）",
+          "format": "対面",
+          "location": "東京都港区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-03-10",
+        "selectionFlow": "ES → ケース面接複数回",
+        "positions": ["ビジネスアナリスト"]
+      }
+    },
+    {
+      "id": "bcg",
+      "companyName": "ボストン コンサルティング グループ",
+      "industry": "consult",
+      "website": "https://www.bcg.com",
+      "recruitUrl": "https://careers.bcg.com/",
+      "internships": [
+        {
+          "id": "bcg-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "5days以上",
+          "deadline": "2026-07-05",
+          "period": "8月（1週間）",
+          "format": "対面",
+          "location": "東京都中央区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-03-12",
+        "selectionFlow": "ES → ケース面接複数回",
+        "positions": ["アソシエイト"]
+      }
+    },
+    {
+      "id": "bain",
+      "companyName": "ベイン・アンド・カンパニー",
+      "industry": "consult",
+      "website": "https://www.bain.com",
+      "recruitUrl": "https://www.bain.com/careers/",
+      "internships": [
+        {
+          "id": "bain-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "5days以上",
+          "deadline": "2026-07-06",
+          "period": "8月（1週間）",
+          "format": "対面",
+          "location": "東京都港区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-03-14",
+        "selectionFlow": "ES → ケース面接複数回",
+        "positions": ["アソシエイトコンサルタント"]
+      }
+    },
+    {
+      "id": "accenture",
+      "companyName": "アクセンチュア",
+      "industry": "consult",
+      "website": "https://www.accenture.com",
+      "recruitUrl": "https://www.accenture.com/jp-ja/careers/local/new-graduates",
+      "internships": [
+        {
+          "id": "accenture-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "3days",
+          "deadline": "2026-07-14",
+          "period": "8月〜9月（3日間）",
+          "format": "ハイブリッド",
+          "location": "東京都港区",
+          "courses": [
+            { "name": "ビジネスコンサルタントコース", "description": "戦略・業務改革プロジェクトの一部を体験します。" },
+            { "name": "テクノロジーコンサルタントコース", "description": "システム構想・実装フェーズを体感します。" }
+          ]
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-03-31",
+        "selectionFlow": "ES → Webテスト → GD → 面接",
+        "positions": ["ビジネス", "テクノロジー", "デジタル"]
+      }
+    },
+    {
+      "id": "deloitte",
+      "companyName": "デロイト トーマツ コンサルティング",
+      "industry": "consult",
+      "website": "https://www2.deloitte.com/jp",
+      "recruitUrl": "https://saiyo.tohmatsu.co.jp/dtc/",
+      "internships": [
+        {
+          "id": "deloitte-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "3days",
+          "deadline": "2026-07-16",
+          "period": "8月〜9月（3日間）",
+          "format": "ハイブリッド",
+          "location": "東京都千代田区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-01",
+        "selectionFlow": "ES → Webテスト → GD → 面接複数回",
+        "positions": ["コンサルタント"]
+      }
+    },
+    {
+      "id": "pwc",
+      "companyName": "PwCコンサルティング",
+      "industry": "consult",
+      "website": "https://www.pwc.com/jp",
+      "recruitUrl": "https://www.pwc.com/jp/ja/careers/students.html",
+      "internships": [
+        {
+          "id": "pwc-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "2days",
+          "deadline": "2026-07-18",
+          "period": "8月〜9月（2日間）",
+          "format": "ハイブリッド",
+          "location": "東京都千代田区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-05",
+        "selectionFlow": "ES → Webテスト → GD → 面接複数回",
+        "positions": ["コンサルタント"]
+      }
+    },
+    {
+      "id": "ey",
+      "companyName": "EYストラテジー・アンド・コンサルティング",
+      "industry": "consult",
+      "website": "https://www.ey.com/ja_jp",
+      "recruitUrl": "https://www.ey.com/ja_jp/careers",
+      "internships": [
+        {
+          "id": "ey-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "2days",
+          "deadline": "2026-07-21",
+          "period": "8月〜9月（2日間）",
+          "format": "ハイブリッド",
+          "location": "東京都千代田区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-08",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["コンサルタント"]
+      }
+    },
+    {
+      "id": "kpmg",
+      "companyName": "KPMGコンサルティング",
+      "industry": "consult",
+      "website": "https://kpmg.com/jp",
+      "recruitUrl": "https://kpmg.com/jp/ja/home/careers.html",
+      "internships": [
+        {
+          "id": "kpmg-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "2days",
+          "deadline": "2026-07-23",
+          "period": "9月（2日間）",
+          "format": "ハイブリッド",
+          "location": "東京都千代田区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-10",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["コンサルタント"]
+      }
+    },
+    {
+      "id": "nri",
+      "companyName": "野村総合研究所",
+      "industry": "consult",
+      "website": "https://www.nri.com",
+      "recruitUrl": "https://recruit.nri.co.jp/",
+      "internships": [
+        {
+          "id": "nri-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "5days以上",
+          "deadline": "2026-07-11",
+          "period": "8月〜9月（5日間）",
+          "format": "ハイブリッド",
+          "location": "東京都千代田区",
+          "courses": [
+            { "name": "経営コンサルタントコース", "description": "経営戦略立案のプロジェクトワークに取り組みます。" },
+            { "name": "ITソリューションコース", "description": "大規模システム開発・DX推進を体験します。" }
+          ]
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-03-28",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["経営コンサル", "ITソリューション"]
+      }
+    },
+    {
+      "id": "mri",
+      "companyName": "三菱総合研究所",
+      "industry": "consult",
+      "website": "https://www.mri.co.jp",
+      "recruitUrl": "https://www.mri.co.jp/recruit/",
+      "internships": [
+        {
+          "id": "mri-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "3days",
+          "deadline": "2026-07-25",
+          "period": "9月（3日間）",
+          "format": "ハイブリッド",
+          "location": "東京都千代田区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-12",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["研究員", "コンサルタント"]
+      }
+    },
+    {
+      "id": "mitsubishi-corp",
+      "companyName": "三菱商事",
+      "industry": "trading",
+      "website": "https://www.mitsubishicorp.com",
+      "recruitUrl": "https://www.mitsubishicorp.com/jp/ja/recruit/",
+      "internships": [
+        {
+          "id": "mitsubishi-corp-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "3days",
+          "deadline": "2026-07-09",
+          "period": "8月〜9月（3日間）",
+          "format": "対面",
+          "location": "東京都千代田区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-03-20",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["総合職"]
+      }
+    },
+    {
+      "id": "mitsui-corp",
+      "companyName": "三井物産",
+      "industry": "trading",
+      "website": "https://www.mitsui.com",
+      "recruitUrl": "https://career.mitsui.com/",
+      "internships": [
+        {
+          "id": "mitsui-corp-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "3days",
+          "deadline": "2026-07-10",
+          "period": "8月〜9月（3日間）",
+          "format": "対面",
+          "location": "東京都千代田区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-03-22",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["総合職"]
+      }
+    },
+    {
+      "id": "sumitomo-corp",
+      "companyName": "住友商事",
+      "industry": "trading",
+      "website": "https://www.sumitomocorp.com",
+      "recruitUrl": "https://www.sumitomocorp.com/jp/japan/recruit",
+      "internships": [
+        {
+          "id": "sumitomo-corp-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "3days",
+          "deadline": "2026-07-13",
+          "period": "8月〜9月（3日間）",
+          "format": "対面",
+          "location": "東京都千代田区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-03-25",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["総合職"]
+      }
+    },
+    {
+      "id": "itochu",
+      "companyName": "伊藤忠商事",
+      "industry": "trading",
+      "website": "https://www.itochu.co.jp",
+      "recruitUrl": "https://career.itochu.co.jp/student/",
+      "internships": [
+        {
+          "id": "itochu-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "2days",
+          "deadline": "2026-07-15",
+          "period": "8月〜9月（2日間）",
+          "format": "対面",
+          "location": "東京都港区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-03-28",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["総合職"]
+      }
+    },
+    {
+      "id": "marubeni",
+      "companyName": "丸紅",
+      "industry": "trading",
+      "website": "https://www.marubeni.com",
+      "recruitUrl": "https://www.marubeni.com/jp/company/recruit/",
+      "internships": [
+        {
+          "id": "marubeni-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "2days",
+          "deadline": "2026-07-18",
+          "period": "8月〜9月（2日間）",
+          "format": "対面",
+          "location": "東京都千代田区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-01",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["総合職"]
+      }
+    },
+    {
+      "id": "sojitz",
+      "companyName": "双日",
+      "industry": "trading",
+      "website": "https://www.sojitz.com",
+      "recruitUrl": "https://www.sojitz.com/jp/recruit/",
+      "internships": [
+        {
+          "id": "sojitz-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "2days",
+          "deadline": "2026-07-20",
+          "period": "9月（2日間）",
+          "format": "ハイブリッド",
+          "location": "東京都千代田区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-05",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["総合職"]
+      }
+    },
+    {
+      "id": "toyotatsusho",
+      "companyName": "豊田通商",
+      "industry": "trading",
+      "website": "https://www.toyota-tsusho.com",
+      "recruitUrl": "https://www.toyota-tsusho.com/recruit/",
+      "internships": [
+        {
+          "id": "toyotatsusho-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "2days",
+          "deadline": "2026-07-24",
+          "period": "9月（2日間）",
+          "format": "ハイブリッド",
+          "location": "愛知県名古屋市",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-08",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["総合職"]
+      }
+    },
+    {
+      "id": "dentsu",
+      "companyName": "電通",
+      "industry": "media",
+      "website": "https://www.dentsu.co.jp",
+      "recruitUrl": "https://www.dentsu.co.jp/recruit/",
+      "internships": [
+        {
+          "id": "dentsu-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "3days",
+          "deadline": "2026-07-11",
+          "period": "8月〜9月（3日間）",
+          "format": "ハイブリッド",
+          "location": "東京都港区",
+          "courses": [
+            { "name": "クリエーティブコース", "description": "広告表現の企画・制作をチームで体験します。" },
+            { "name": "ビジネスプロデュースコース", "description": "統合コミュニケーション戦略の立案を体感します。" }
+          ]
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-03-25",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["総合職"]
+      }
+    },
+    {
+      "id": "hakuhodo",
+      "companyName": "博報堂",
+      "industry": "media",
+      "website": "https://www.hakuhodo.co.jp",
+      "recruitUrl": "https://www.hakuhodo.co.jp/recruit/",
+      "internships": [
+        {
+          "id": "hakuhodo-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "3days",
+          "deadline": "2026-07-14",
+          "period": "8月〜9月（3日間）",
+          "format": "ハイブリッド",
+          "location": "東京都港区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-03-28",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["総合職"]
+      }
+    },
+    {
+      "id": "yomiuri",
+      "companyName": "読売新聞社",
+      "industry": "media",
+      "website": "https://www.yomiuri.co.jp",
+      "recruitUrl": "https://saiyo.yomiuri.co.jp/",
+      "internships": [
+        {
+          "id": "yomiuri-intern-summer",
+          "name": "記者インターンシップ",
+          "internType": "2days",
+          "deadline": "2026-07-28",
+          "period": "8月（2日間）",
+          "format": "対面",
+          "location": "東京都千代田区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-10",
+        "selectionFlow": "ES → 筆記試験 → 面接複数回",
+        "positions": ["記者", "業務", "技術"]
+      }
+    },
+    {
+      "id": "nikkei",
+      "companyName": "日本経済新聞社",
+      "industry": "media",
+      "website": "https://www.nikkei.co.jp",
+      "recruitUrl": "https://www.nikkei.co.jp/saiyo/",
+      "internships": [
+        {
+          "id": "nikkei-intern-summer",
+          "name": "ジャーナリストインターン",
+          "internType": "3days",
+          "deadline": "2026-07-30",
+          "period": "8月〜9月（3日間）",
+          "format": "ハイブリッド",
+          "location": "東京都千代田区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-15",
+        "selectionFlow": "ES → 筆記試験 → 面接複数回",
+        "positions": ["記者", "デジタル", "ビジネス"]
+      }
+    },
+    {
+      "id": "tvtokyo",
+      "companyName": "テレビ東京",
+      "industry": "media",
+      "website": "https://www.tv-tokyo.co.jp",
+      "recruitUrl": "https://www.tv-tokyo.co.jp/recruit/",
+      "internships": [
+        {
+          "id": "tvtokyo-intern-summer",
+          "name": "番組制作インターン",
+          "internType": "2days",
+          "deadline": "2026-08-04",
+          "period": "9月（2日間）",
+          "format": "対面",
+          "location": "東京都港区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-18",
+        "selectionFlow": "ES → 筆記試験 → 面接複数回",
+        "positions": ["総合職"]
+      }
+    },
+    {
+      "id": "nhk",
+      "companyName": "NHK（日本放送協会）",
+      "industry": "media",
+      "website": "https://www.nhk.or.jp",
+      "recruitUrl": "https://www.nhk.or.jp/saiyo/",
+      "internships": [
+        {
+          "id": "nhk-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "2days",
+          "deadline": "2026-08-07",
+          "period": "9月（2日間）",
+          "format": "ハイブリッド",
+          "location": "東京都渋谷区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-20",
+        "selectionFlow": "ES → 筆記試験 → 面接複数回",
+        "positions": ["記者", "ディレクター", "技術"]
+      }
+    },
+    {
+      "id": "jr-east",
+      "companyName": "JR東日本",
+      "industry": "logistics",
+      "website": "https://www.jreast.co.jp",
+      "recruitUrl": "https://www.jreast.co.jp/recruit/",
+      "internships": [
+        {
+          "id": "jr-east-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "3days",
+          "deadline": "2026-07-17",
+          "period": "8月〜9月（3日間）",
+          "format": "ハイブリッド",
+          "location": "東京都渋谷区",
+          "courses": [
+            { "name": "運輸・車両コース", "description": "鉄道運行や車両メンテナンスの現場を体験します。" }
+          ]
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-03-30",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["ポテンシャル", "プロフェッショナル"]
+      }
+    },
+    {
+      "id": "jr-central",
+      "companyName": "JR東海",
+      "industry": "logistics",
+      "website": "https://jr-central.co.jp",
+      "recruitUrl": "https://recruit.jr-central.co.jp/",
+      "internships": [
+        {
+          "id": "jr-central-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "2days",
+          "deadline": "2026-07-19",
+          "period": "8月〜9月（2日間）",
+          "format": "対面",
+          "location": "愛知県名古屋市",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-01",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["総合職", "プロフェッショナル職"]
+      }
+    },
+    {
+      "id": "tepco",
+      "companyName": "東京電力ホールディングス",
+      "industry": "energy",
+      "website": "https://www.tepco.co.jp",
+      "recruitUrl": "https://www.tepco.co.jp/recruit/",
+      "internships": [
+        {
+          "id": "tepco-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "2days",
+          "deadline": "2026-07-26",
+          "period": "9月（2日間）",
+          "format": "ハイブリッド",
+          "location": "東京都千代田区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-05",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["技術系", "事務系"]
+      }
+    },
+    {
+      "id": "kepco",
+      "companyName": "関西電力",
+      "industry": "energy",
+      "website": "https://www.kepco.co.jp",
+      "recruitUrl": "https://www.kepco.co.jp/recruit/",
+      "internships": [
+        {
+          "id": "kepco-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "2days",
+          "deadline": "2026-07-31",
+          "period": "9月（2日間）",
+          "format": "ハイブリッド",
+          "location": "大阪府大阪市",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-08",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["技術系", "事務系"]
+      }
+    },
+    {
+      "id": "ntt-east",
+      "companyName": "NTT東日本",
+      "industry": "telecom",
+      "website": "https://www.ntt-east.co.jp",
+      "recruitUrl": "https://www.ntt-east.co.jp/recruit/",
+      "internships": [
+        {
+          "id": "ntt-east-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "3days",
+          "deadline": "2026-07-21",
+          "period": "8月〜9月（3日間）",
+          "format": "ハイブリッド",
+          "location": "東京都新宿区",
+          "courses": [
+            { "name": "SEコース", "description": "地域通信インフラやDXソリューションの開発を体験します。" }
+          ]
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-10",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["技術系", "営業系"]
+      }
+    },
+    {
+      "id": "nexco-east",
+      "companyName": "NEXCO東日本",
+      "industry": "construct",
+      "website": "https://www.e-nexco.co.jp",
+      "recruitUrl": "https://www.e-nexco.co.jp/recruit/",
+      "internships": [
+        {
+          "id": "nexco-east-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "2days",
+          "deadline": "2026-08-05",
+          "period": "9月（2日間）",
+          "format": "対面",
+          "location": "東京都千代田区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-15",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["技術系", "事務系"]
+      }
+    },
+    {
+      "id": "rakuten",
+      "companyName": "楽天グループ",
+      "industry": "web",
+      "website": "https://corp.rakuten.co.jp",
+      "recruitUrl": "https://corp.rakuten.co.jp/careers/newgrads/",
+      "internships": [
+        {
+          "id": "rakuten-intern-summer",
+          "name": "エンジニアリングインターン",
+          "internType": "5days以上",
+          "deadline": "2026-07-16",
+          "period": "8月〜9月（2週間）",
+          "format": "ハイブリッド",
+          "location": "東京都世田谷区",
+          "courses": [
+            { "name": "ソフトウェアエンジニアコース", "description": "ECやフィンテックなど多様なサービス開発を体験します。" }
+          ]
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-01",
+        "selectionFlow": "ES → コーディングテスト → 面接複数回",
+        "positions": ["エンジニア", "ビジネス"]
+      }
+    },
+    {
+      "id": "softbank",
+      "companyName": "ソフトバンク",
+      "industry": "telecom",
+      "website": "https://www.softbank.jp",
+      "recruitUrl": "https://www.softbank.jp/recruit/graduate/",
+      "internships": [
+        {
+          "id": "softbank-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "5days以上",
+          "deadline": "2026-07-18",
+          "period": "8月〜9月（2週間）",
+          "format": "ハイブリッド",
+          "location": "東京都港区",
+          "courses": [
+            { "name": "エンジニアコース", "description": "通信・AI・IoT領域の開発プロジェクトに参加します。" }
+          ]
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-05",
+        "selectionFlow": "ES → 動画選考 → 面接複数回",
+        "positions": ["エンジニア", "営業", "コーポレート"]
+      }
+    },
+    {
+      "id": "kddi",
+      "companyName": "KDDI",
+      "industry": "telecom",
+      "website": "https://www.kddi.com",
+      "recruitUrl": "https://newgrads-kddi.com/",
+      "internships": [
+        {
+          "id": "kddi-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "3days",
+          "deadline": "2026-07-22",
+          "period": "8月〜9月（3日間）",
+          "format": "ハイブリッド",
+          "location": "東京都千代田区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-08",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["技術系", "業務系"]
+      }
+    },
+    {
+      "id": "moneyforward",
+      "companyName": "マネーフォワード",
+      "industry": "fintech",
+      "website": "https://corp.moneyforward.com",
+      "recruitUrl": "https://recruit.moneyforward.com/",
+      "internships": [
+        {
+          "id": "moneyforward-intern-summer",
+          "name": "エンジニアインターン",
+          "internType": "5days以上",
+          "deadline": "2026-07-25",
+          "period": "8月（1週間）",
+          "format": "ハイブリッド",
+          "location": "東京都港区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-20",
+        "selectionFlow": "ES → コーディング試験 → 面接複数回",
+        "positions": ["エンジニア", "デザイナー", "ビジネス"]
+      }
+    },
+    {
+      "id": "suntory",
+      "companyName": "サントリーホールディングス",
+      "industry": "maker_food",
+      "website": "https://www.suntory.co.jp",
+      "recruitUrl": "https://www.suntory.co.jp/recruit/",
+      "internships": [
+        {
+          "id": "suntory-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "2days",
+          "deadline": "2026-07-27",
+          "period": "9月（2日間）",
+          "format": "ハイブリッド",
+          "location": "東京都港区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-10",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["ビジネス", "生産研究", "デジタル"]
+      }
+    },
+    {
+      "id": "ajinomoto",
+      "companyName": "味の素",
+      "industry": "maker_food",
+      "website": "https://www.ajinomoto.co.jp",
+      "recruitUrl": "https://www.ajinomoto.co.jp/company/jp/recruit/",
+      "internships": [
+        {
+          "id": "ajinomoto-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "3days",
+          "deadline": "2026-07-30",
+          "period": "9月（3日間）",
+          "format": "ハイブリッド",
+          "location": "東京都中央区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-12",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["事務系", "技術系", "研究開発"]
+      }
+    },
+    {
+      "id": "meiji",
+      "companyName": "明治",
+      "industry": "maker_food",
+      "website": "https://www.meiji.co.jp",
+      "recruitUrl": "https://www.meiji.co.jp/recruit/",
+      "internships": [
+        {
+          "id": "meiji-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "2days",
+          "deadline": "2026-08-03",
+          "period": "9月（2日間）",
+          "format": "ハイブリッド",
+          "location": "東京都中央区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-15",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["事務系", "技術系", "研究開発"]
+      }
+    },
+    {
+      "id": "shiseido",
+      "companyName": "資生堂",
+      "industry": "retail",
+      "website": "https://www.shiseido.co.jp",
+      "recruitUrl": "https://recruit.shiseido.co.jp/",
+      "internships": [
+        {
+          "id": "shiseido-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "2days",
+          "deadline": "2026-08-06",
+          "period": "9月（2日間）",
+          "format": "ハイブリッド",
+          "location": "東京都港区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-18",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["ビジネス", "研究開発", "生産技術"]
+      }
+    },
+    {
+      "id": "fastretailing",
+      "companyName": "ファーストリテイリング",
+      "industry": "retail",
+      "website": "https://www.fastretailing.com",
+      "recruitUrl": "https://www.fastretailing.com/employment/",
+      "internships": [
+        {
+          "id": "fastretailing-intern-summer",
+          "name": "経営者育成インターン",
+          "internType": "3days",
+          "deadline": "2026-07-24",
+          "period": "8月〜9月（3日間）",
+          "format": "対面",
+          "location": "東京都港区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-01",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["グローバルリーダー", "IT", "デザイン"]
+      }
+    },
+    {
+      "id": "nitori",
+      "companyName": "ニトリ",
+      "industry": "retail",
+      "website": "https://www.nitori.co.jp",
+      "recruitUrl": "https://www.nitori.co.jp/recruit/",
+      "internships": [
+        {
+          "id": "nitori-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "2days",
+          "deadline": "2026-08-08",
+          "period": "9月（2日間）",
+          "format": "ハイブリッド",
+          "location": "東京都北区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-20",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["総合職"]
+      }
+    },
+    {
+      "id": "takeda",
+      "companyName": "武田薬品工業",
+      "industry": "maker_med",
+      "website": "https://www.takeda.com/ja-jp/",
+      "recruitUrl": "https://www.takeda.com/ja-jp/careers/",
+      "internships": [
+        {
+          "id": "takeda-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "3days",
+          "deadline": "2026-07-28",
+          "period": "8月〜9月（3日間）",
+          "format": "ハイブリッド",
+          "location": "大阪府大阪市",
+          "courses": [
+            { "name": "研究開発コース", "description": "創薬研究や臨床開発のプロセスを体験します。" }
+          ]
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-10",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["研究職", "MR", "コーポレート"]
+      }
+    },
+    {
+      "id": "daiichisankyo",
+      "companyName": "第一三共",
+      "industry": "maker_med",
+      "website": "https://www.daiichisankyo.co.jp",
+      "recruitUrl": "https://www.daiichisankyo.co.jp/recruit/",
+      "internships": [
+        {
+          "id": "daiichisankyo-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "2days",
+          "deadline": "2026-08-01",
+          "period": "9月（2日間）",
+          "format": "ハイブリッド",
+          "location": "東京都中央区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-15",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["研究職", "MR", "生産"]
+      }
+    },
+    {
+      "id": "mitsubishi-estate",
+      "companyName": "三菱地所",
+      "industry": "realestate",
+      "website": "https://www.mec.co.jp",
+      "recruitUrl": "https://www.mec.co.jp/recruit/",
+      "internships": [
+        {
+          "id": "mitsubishi-estate-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "3days",
+          "deadline": "2026-07-19",
+          "period": "8月〜9月（3日間）",
+          "format": "対面",
+          "location": "東京都千代田区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-03-31",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["総合職"]
+      }
+    },
+    {
+      "id": "mitsui-fudosan",
+      "companyName": "三井不動産",
+      "industry": "realestate",
+      "website": "https://www.mitsuifudosan.co.jp",
+      "recruitUrl": "https://www.mitsuifudosan.co.jp/corporate/recruit/",
+      "internships": [
+        {
+          "id": "mitsui-fudosan-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "3days",
+          "deadline": "2026-07-23",
+          "period": "8月〜9月（3日間）",
+          "format": "対面",
+          "location": "東京都中央区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-05",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["総合職"]
+      }
+    },
+    {
+      "id": "obayashi",
+      "companyName": "大林組",
+      "industry": "construct",
+      "website": "https://www.obayashi.co.jp",
+      "recruitUrl": "https://www.obayashi.co.jp/recruit/",
+      "internships": [
+        {
+          "id": "obayashi-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "2days",
+          "deadline": "2026-08-04",
+          "period": "9月（2日間）",
+          "format": "対面",
+          "location": "東京都港区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-18",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["技術系", "事務系"]
+      }
+    },
+    {
+      "id": "ana",
+      "companyName": "全日本空輸（ANA）",
+      "industry": "logistics",
+      "website": "https://www.ana.co.jp",
+      "recruitUrl": "https://www.ana.co.jp/group/recruit/",
+      "internships": [
+        {
+          "id": "ana-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "2days",
+          "deadline": "2026-07-29",
+          "period": "9月（2日間）",
+          "format": "ハイブリッド",
+          "location": "東京都大田区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-10",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["総合職", "技術系"]
+      }
+    },
+    {
+      "id": "jal",
+      "companyName": "日本航空（JAL）",
+      "industry": "logistics",
+      "website": "https://www.jal.com",
+      "recruitUrl": "https://www.job.jal.jp/",
+      "internships": [
+        {
+          "id": "jal-intern-summer",
+          "name": "サマーインターンシップ",
+          "internType": "2days",
+          "deadline": "2026-07-31",
+          "period": "9月（2日間）",
+          "format": "ハイブリッド",
+          "location": "東京都品川区",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-12",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["業務企画", "技術"]
+      }
+    },
+    {
+      "id": "fanuc",
+      "companyName": "ファナック",
+      "industry": "maker_elec",
+      "website": "https://www.fanuc.co.jp",
+      "recruitUrl": "https://www.fanuc.co.jp/ja/recruit/",
+      "internships": [
+        {
+          "id": "fanuc-intern-summer",
+          "name": "夏季インターンシップ",
+          "internType": "2days",
+          "deadline": "2026-08-10",
+          "period": "9月（2日間）",
+          "format": "対面",
+          "location": "山梨県南都留郡",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-25",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["技術系", "事務系"]
+      }
+    },
+    {
+      "id": "nidec",
+      "companyName": "ニデック",
+      "industry": "maker_elec",
+      "website": "https://www.nidec.com",
+      "recruitUrl": "https://www.nidec.com/jp/nidec/careers/",
+      "internships": [
+        {
+          "id": "nidec-intern-summer",
+          "name": "夏季インターンシップ",
+          "internType": "2days",
+          "deadline": "2026-08-12",
+          "period": "9月（2日間）",
+          "format": "ハイブリッド",
+          "location": "京都府",
+          "courses": []
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-04-28",
+        "selectionFlow": "ES → Webテスト → 面接複数回",
+        "positions": ["技術系", "事務系"]
+      }
+    }
+  ]
+}
