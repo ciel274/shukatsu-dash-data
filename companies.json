@@ -1,5 +1,5 @@
 {
-  "version": "2.6.0",
+  "version": "2.6.2",
   "updatedAt": "2026-07-04",
   "note": "締切日・募集要項は変更される場合があります。各社公式サイトで必ずご確認ください。",
   "companies": [
@@ -74,6 +74,13 @@
           "location": "オンライン",
           "courses": [],
           "selectionFlow": "エントリーのみ（先着順）"
+        },
+        {
+          "id": "トヨタ自動車-20260717",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-17",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -183,6 +190,13 @@
             }
           ],
           "selectionFlow": "ES提出 → コーディングテスト → 面接1〜2回"
+        },
+        {
+          "id": "本田技研工業-20260709",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-09",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -274,6 +288,13 @@
             }
           ],
           "selectionFlow": "ES提出 → コーディングテスト → 面接1〜2回"
+        },
+        {
+          "id": "日産自動車-20260710",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-10",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -379,6 +400,13 @@
             }
           ],
           "selectionFlow": "ES提出 → コーディングテスト → 面接1〜2回"
+        },
+        {
+          "id": "デンソー-20260706",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-06",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -637,6 +665,20 @@
             }
           ],
           "selectionFlow": "ES提出 → コーディングテスト → 面接1〜2回"
+        },
+        {
+          "id": "sony-intern-2026s",
+          "name": "ソニー Tech Summer Internship 2026",
+          "deadline": "2026-07-07",
+          "period": "8月",
+          "selectionFlow": "ES→コーディング試験→技術面接→内定"
+        },
+        {
+          "id": "ソニーグループ-20260705",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-05",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -733,6 +775,13 @@
             }
           ],
           "selectionFlow": "ES提出 → コーディングテスト → 面接1〜2回"
+        },
+        {
+          "id": "パナソニック-20260706",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-06",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -838,6 +887,20 @@
             }
           ],
           "selectionFlow": "ES提出 → コーディングテスト → 面接1〜2回"
+        },
+        {
+          "id": "hitachi-intern-2026s",
+          "name": "日立サマーインターンシップ2026",
+          "deadline": "2026-07-07",
+          "period": "8月",
+          "selectionFlow": "ES→Webテスト→面接→内定"
+        },
+        {
+          "id": "日立製作所-20260706",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-06",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -947,6 +1010,13 @@
             }
           ],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "fujitsu-intern-2026s",
+          "name": "富士通サマーインターンシップ2026",
+          "deadline": "2026-07-08",
+          "period": "8月",
+          "selectionFlow": "ES→Webテスト→面接→内定"
         }
       ],
       "mainSelection": {
@@ -1043,6 +1113,13 @@
             }
           ],
           "selectionFlow": "ES提出 → コーディングテスト → 面接1〜2回"
+        },
+        {
+          "id": "nec-intern-2026s",
+          "name": "NEC夏季インターンシップ2026",
+          "deadline": "2026-07-12",
+          "period": "8月",
+          "selectionFlow": "ES→Webテスト→面接→内定"
         }
       ],
       "mainSelection": {
@@ -1146,6 +1223,20 @@
             }
           ],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "nttdata-intern-2026s",
+          "name": "NTTデータ 夏インターンシップ2026",
+          "deadline": "2026-07-10",
+          "period": "8月",
+          "selectionFlow": "ES→Webテスト→面接→内定"
+        },
+        {
+          "id": "NTTデータ-20260803",
+          "name": "サマーインターン2026（後半）",
+          "deadline": "2026-08-03",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -1227,6 +1318,13 @@
           "location": "大阪府",
           "courses": [],
           "selectionFlow": "エントリーのみ（先着順）"
+        },
+        {
+          "id": "キーエンス-20260704",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-04",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -1706,6 +1804,13 @@
             }
           ],
           "selectionFlow": "ES提出 → コーディングテスト → 面接1〜2回"
+        },
+        {
+          "id": "nintendo-intern-2026s",
+          "name": "ニンテンドーサマーインターンシップ2026",
+          "deadline": "2026-07-05",
+          "period": "8月",
+          "selectionFlow": "ES→プログラミング試験→面接→内定"
         }
       ],
       "mainSelection": {
@@ -1802,6 +1907,20 @@
             }
           ],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "bandai-intern-2026s",
+          "name": "バンダイナムコ夏季インターン",
+          "deadline": "2026-07-12",
+          "period": "8月",
+          "selectionFlow": "ES→適性検査→面接→内定"
+        },
+        {
+          "id": "バンダイナムコエ-20260724",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-24",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -1874,6 +1993,20 @@
           "location": "東京都品川区",
           "courses": [],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "sega-intern-2026s",
+          "name": "SEGAインターンシップ2026夏",
+          "deadline": "2026-07-20",
+          "period": "8月2週間",
+          "selectionFlow": "ES→試験→面接→内定"
+        },
+        {
+          "id": "セガ-20260707",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-07",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -1945,6 +2078,13 @@
           "location": "東京都中央区",
           "courses": [],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "konami-intern-2026s",
+          "name": "コナミサマーインターン2026",
+          "deadline": "2026-07-15",
+          "period": "8月",
+          "selectionFlow": "ES→適性検査→面接→内定"
         }
       ],
       "mainSelection": {
@@ -2154,6 +2294,34 @@
             }
           ],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "ca-intern-2026s",
+          "name": "サマーインターン（エンジニア）",
+          "deadline": "2026-07-15",
+          "period": "8月",
+          "selectionFlow": "ES→コーディングテスト→面接→内定"
+        },
+        {
+          "id": "サイバーエージェ-20260701",
+          "name": "サマーインターン2026（第1回）",
+          "deadline": "2026-07-01",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        },
+        {
+          "id": "サイバーエージェ-20260708",
+          "name": "サマーインターン2026（第2回）",
+          "deadline": "2026-07-08",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        },
+        {
+          "id": "サイバーエージェ-20260805",
+          "name": "サマーインターン2026（第3回）",
+          "deadline": "2026-08-05",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -2244,6 +2412,20 @@
             }
           ],
           "selectionFlow": "ES提出 → コーディングテスト → 面接1〜2回"
+        },
+        {
+          "id": "dena-intern-2026s",
+          "name": "DeNA Summer Internship 2026",
+          "deadline": "2026-07-08",
+          "period": "8月",
+          "selectionFlow": "ES→コーディングテスト→面接2回→内定"
+        },
+        {
+          "id": "DeNA-20260706",
+          "name": "DeNA Summer Internship 2026",
+          "deadline": "2026-07-06",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -2330,6 +2512,20 @@
             }
           ],
           "selectionFlow": "ES提出 → コーディングテスト → 面接1〜2回"
+        },
+        {
+          "id": "mercari-intern-2026s",
+          "name": "Mercari Summer Internship 2026",
+          "deadline": "2026-07-20",
+          "period": "8~9月",
+          "selectionFlow": "ES→コーディング→技術面接2回→内定"
+        },
+        {
+          "id": "メルカリ-20260715",
+          "name": "Mercari Summer Internship 2026",
+          "deadline": "2026-07-15",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -2440,6 +2636,13 @@
             }
           ],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "ly-intern-2026s",
+          "name": "LINEヤフー サマーインターン2026",
+          "deadline": "2026-07-10",
+          "period": "8月",
+          "selectionFlow": "ES→Webテスト→面接→内定"
         }
       ],
       "mainSelection": {
@@ -2664,6 +2867,13 @@
           "location": "オンライン",
           "courses": [],
           "selectionFlow": "ES提出 → コーディングテスト → 面接1〜2回"
+        },
+        {
+          "id": "smarthr-intern-2026s",
+          "name": "SmartHR サマーインターン2026",
+          "deadline": "2026-07-18",
+          "period": "8月",
+          "selectionFlow": "書類→コーディング→面接→内定"
         }
       ],
       "mainSelection": {
@@ -2906,6 +3116,13 @@
             }
           ],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "三菱UFJ銀行-20260715",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-15",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -2995,6 +3212,13 @@
             }
           ],
           "selectionFlow": "ES提出 → 適性検査 → 面接1〜2回"
+        },
+        {
+          "id": "三井住友銀行-20260706",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-06",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -3070,6 +3294,20 @@
           "location": "東京都千代田区",
           "courses": [],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "みずほフィナンシ-20260725",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-25",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        },
+        {
+          "id": "みずほフィナンシ-20260729",
+          "name": "サマーインターン2026（第2回）",
+          "deadline": "2026-07-29",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -3174,6 +3412,13 @@
             }
           ],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "nomura-intern-2026s",
+          "name": "野村サマーインターンシップ2026",
+          "deadline": "2026-07-15",
+          "period": "8月",
+          "selectionFlow": "ES→Webテスト→GD→面接→内定"
         }
       ],
       "mainSelection": {
@@ -3255,6 +3500,27 @@
           "location": "東京都千代田区",
           "courses": [],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "daiwa-intern-2026s",
+          "name": "大和証券サマーインターン2026",
+          "deadline": "2026-07-20",
+          "period": "8月",
+          "selectionFlow": "ES→Webテスト→面接→内定"
+        },
+        {
+          "id": "大和証券-20260710",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-10",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        },
+        {
+          "id": "大和証券-20260717",
+          "name": "サマーインターン2026（第2回）",
+          "deadline": "2026-07-17",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -3325,6 +3591,13 @@
           "location": "東京都千代田区",
           "courses": [],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "smbc-nikko-intern-2026s",
+          "name": "SMBC日興証券サマーインターン2026",
+          "deadline": "2026-07-15",
+          "period": "8月",
+          "selectionFlow": "ES→Webテスト→面接→内定"
         }
       ],
       "mainSelection": {
@@ -3541,6 +3814,13 @@
           "location": "東京都港区",
           "courses": [],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "mckinsey-intern-2026s",
+          "name": "McKinsey Summer Intern 2026",
+          "deadline": "2026-07-01",
+          "period": "8月",
+          "selectionFlow": "書類→ケース面接2回→内定"
         }
       ],
       "mainSelection": {
@@ -3621,6 +3901,13 @@
           "location": "東京都中央区",
           "courses": [],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "bcg-intern-2026s",
+          "name": "BCG Summer Associate 2026",
+          "deadline": "2026-07-01",
+          "period": "8月",
+          "selectionFlow": "書類→ケース面接2回→内定"
         }
       ],
       "mainSelection": {
@@ -3695,6 +3982,13 @@
           "location": "東京都港区",
           "courses": [],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "bain-intern-2026s",
+          "name": "Bain Summer Associate 2026",
+          "deadline": "2026-07-05",
+          "period": "8月",
+          "selectionFlow": "書類→ケース面接2回→内定"
         }
       ],
       "mainSelection": {
@@ -3794,6 +4088,20 @@
             }
           ],
           "selectionFlow": "ES提出 → 適性検査 → 面接1〜2回"
+        },
+        {
+          "id": "accenture-intern-2026s",
+          "name": "Accenture サマーインターン2026",
+          "deadline": "2026-07-10",
+          "period": "8月",
+          "selectionFlow": "ES→Webテスト→グループ面接→個人面接→内定"
+        },
+        {
+          "id": "アクセンチュア-20260715",
+          "name": "Accenture サマーインターン2026",
+          "deadline": "2026-07-15",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -3875,6 +4183,13 @@
           "location": "東京都千代田区",
           "courses": [],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "dtc-intern-2026s",
+          "name": "Deloitte夏季インターンシップ2026",
+          "deadline": "2026-07-08",
+          "period": "8月",
+          "selectionFlow": "ES→Webテスト→ケース面接→個人面接→内定"
         }
       ],
       "mainSelection": {
@@ -3945,6 +4260,13 @@
           "location": "東京都千代田区",
           "courses": [],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "pwc-intern-2026s",
+          "name": "PwC サマーインターンシップ2026",
+          "deadline": "2026-07-06",
+          "period": "8月",
+          "selectionFlow": "ES→Webテスト→ケース面接→最終面接→内定"
         }
       ],
       "mainSelection": {
@@ -4085,6 +4407,13 @@
           "location": "東京都千代田区",
           "courses": [],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "kpmg-intern-2026s",
+          "name": "KPMGサマーインターン2026",
+          "deadline": "2026-07-12",
+          "period": "8月",
+          "selectionFlow": "ES→Webテスト→ケース面接→内定"
         }
       ],
       "mainSelection": {
@@ -4184,6 +4513,20 @@
             }
           ],
           "selectionFlow": "ES提出 → 適性検査 → 面接1〜2回"
+        },
+        {
+          "id": "nri-intern-2026s",
+          "name": "NRIサマーインターンシップ2026",
+          "deadline": "2026-07-06",
+          "period": "8月",
+          "selectionFlow": "ES→Webテスト→面接2回→内定"
+        },
+        {
+          "id": "野村総合研究所-20260724",
+          "name": "NRIサマーインターンシップ2026",
+          "deadline": "2026-07-24",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -4324,6 +4667,13 @@
           "location": "東京都千代田区",
           "courses": [],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "三菱商事-20260701",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-01",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -4399,6 +4749,20 @@
           "location": "東京都千代田区",
           "courses": [],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "三井物産-20260703",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-03",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        },
+        {
+          "id": "三井物産-20260704",
+          "name": "サマーインターン2026（第2回）",
+          "deadline": "2026-07-04",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -4469,6 +4833,13 @@
           "location": "東京都千代田区",
           "courses": [],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "住友商事-20260701",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-01",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -4609,6 +4980,13 @@
           "location": "東京都千代田区",
           "courses": [],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "丸紅-20260701",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-01",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -4749,6 +5127,13 @@
           "location": "愛知県名古屋市",
           "courses": [],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "豊田通商-20260721",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-21",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -4848,6 +5233,20 @@
             }
           ],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "dentsu-intern-2026s",
+          "name": "電通サマーインターンシップ2026",
+          "deadline": "2026-07-15",
+          "period": "8月",
+          "selectionFlow": "ES→Webテスト→GD→面接2回→内定"
+        },
+        {
+          "id": "電通-20260706",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-06",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -4927,6 +5326,20 @@
           "location": "東京都港区",
           "courses": [],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "hakuhodo-intern-2026s",
+          "name": "博報堂サマーインターン2026",
+          "deadline": "2026-07-10",
+          "period": "8月",
+          "selectionFlow": "ES→Webテスト→GD→面接→内定"
+        },
+        {
+          "id": "博報堂-20260705",
+          "name": "サマーインターン2026（第1回）",
+          "deadline": "2026-07-05",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -5145,6 +5558,13 @@
           "location": "東京都港区",
           "courses": [],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "テレビ東京-20260703",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-03",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -5215,6 +5635,13 @@
           "location": "東京都渋谷区",
           "courses": [],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "NHK日本放送-20260723",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-23",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -5672,6 +6099,13 @@
           "location": "東京都千代田区",
           "courses": [],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "NEXCO東日本-20260716",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-16",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -5758,6 +6192,20 @@
             }
           ],
           "selectionFlow": "ES提出 → コーディングテスト → 面接1〜2回"
+        },
+        {
+          "id": "楽天グループ-20260703",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-03",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        },
+        {
+          "id": "楽天グループ-20260706",
+          "name": "テックインターン2026",
+          "deadline": "2026-07-06",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -5916,6 +6364,13 @@
           "location": "東京都千代田区",
           "courses": [],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "KDDI-20260705",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-05",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -5987,6 +6442,13 @@
           "location": "東京都港区",
           "courses": [],
           "selectionFlow": "ES提出 → コーディングテスト → 面接1〜2回"
+        },
+        {
+          "id": "マネーフォワード-20260731",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-31",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -6059,6 +6521,20 @@
           "location": "東京都港区",
           "courses": [],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "サントリーホール-20260703",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-03",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        },
+        {
+          "id": "サントリーホール-20260713",
+          "name": "サマーインターン2026（第2回）",
+          "deadline": "2026-07-13",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -6287,6 +6763,13 @@
           "location": "東京都港区",
           "courses": [],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "資生堂-20260703",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-03",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -6363,6 +6846,13 @@
           "location": "東京都港区",
           "courses": [],
           "selectionFlow": "ES提出 → 適性検査 → 面接1〜2回"
+        },
+        {
+          "id": "ファーストリテイ-20260729",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-29",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -6520,6 +7010,20 @@
             }
           ],
           "selectionFlow": "ES提出 → コーディングテスト → 面接1〜2回"
+        },
+        {
+          "id": "武田薬品工業-20260712",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-12",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        },
+        {
+          "id": "武田薬品工業-20260727",
+          "name": "サマーインターン2026（第2回）",
+          "deadline": "2026-07-27",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -6812,6 +7316,13 @@
           "location": "東京都港区",
           "courses": [],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "大林組-20260801",
+          "name": "サマーインターン2026",
+          "deadline": "2026-08-01",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -6883,6 +7394,13 @@
           "location": "東京都大田区",
           "courses": [],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "全日本空輸AN-20260724",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-24",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -6958,6 +7476,13 @@
           "location": "東京都品川区",
           "courses": [],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "日本航空JAL-20260712",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-12",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -7104,6 +7629,13 @@
           "location": "京都府",
           "courses": [],
           "selectionFlow": "ES提出 → 面接1回"
+        },
+        {
+          "id": "ニデック-20260705",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-05",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -7780,6 +8312,13 @@
               "location": "東京都内オフィス"
             }
           ]
+        },
+        {
+          "id": "セールスフォース-20260702",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-02",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -7966,6 +8505,13 @@
               "location": "東京都内オフィス"
             }
           ]
+        },
+        {
+          "id": "gmo-intern-2026s",
+          "name": "GMO Tech Internship 2026夏",
+          "deadline": "2026-07-20",
+          "period": "8月",
+          "selectionFlow": "ES→技術試験→面接→内定"
         }
       ],
       "mainSelection": {
@@ -8066,6 +8612,13 @@
               "location": "東京都内オフィス"
             }
           ]
+        },
+        {
+          "id": "cybozu-intern-2026s",
+          "name": "サイボウズSummer Internship 2026",
+          "deadline": "2026-07-18",
+          "period": "8月",
+          "selectionFlow": "書類→技術試験→面接→内定"
         }
       ],
       "mainSelection": {
@@ -9203,6 +9756,20 @@
               "location": "東京都内オフィス"
             }
           ]
+        },
+        {
+          "id": "ゆうちょ銀行-20260710",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-10",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        },
+        {
+          "id": "ゆうちょ銀行-20260728",
+          "name": "サマーインターン2026（第2回）",
+          "deadline": "2026-07-28",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -9493,6 +10060,13 @@
               "location": "東京都内オフィス"
             }
           ]
+        },
+        {
+          "id": "gs-intern-2026s",
+          "name": "Goldman Sachs Summer Analyst 2026",
+          "deadline": "2026-07-10",
+          "period": "8月",
+          "selectionFlow": "書類→Hirevue動画面接→super day面接→内定"
         }
       ],
       "mainSelection": {
@@ -9584,6 +10158,20 @@
               "location": "東京都内オフィス"
             }
           ]
+        },
+        {
+          "id": "ms-intern-2026s",
+          "name": "Morgan Stanley Summer Analyst 2026",
+          "deadline": "2026-07-10",
+          "period": "8月",
+          "selectionFlow": "書類→適性検査→面接→内定"
+        },
+        {
+          "id": "モルガンスタン-20260707",
+          "name": "Summer Analyst Internship 2026",
+          "deadline": "2026-07-07",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -10028,6 +10616,13 @@
               "location": "東京都内オフィス"
             }
           ]
+        },
+        {
+          "id": "損保ジャパン-20260713",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-13",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -10214,6 +10809,13 @@
               "location": "東京都内オフィス"
             }
           ]
+        },
+        {
+          "id": "明治安田生命-20260707",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-07",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -11315,6 +11917,20 @@
               "location": "東京都内オフィス"
             }
           ]
+        },
+        {
+          "id": "大塚製薬-20260701",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-01",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        },
+        {
+          "id": "大塚製薬-20260721",
+          "name": "サマーインターン2026（第2回）",
+          "deadline": "2026-07-21",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -11798,6 +12414,13 @@
               "location": "東京都内オフィス"
             }
           ]
+        },
+        {
+          "id": "カゴメ-20260701",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-01",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -12332,6 +12955,13 @@
               "location": "東京都内オフィス"
             }
           ]
+        },
+        {
+          "id": "九州電力-20260709",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-09",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -12674,6 +13304,13 @@
               "location": "東京都内オフィス"
             }
           ]
+        },
+        {
+          "id": "森ビル-20260707",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-07",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -13203,6 +13840,13 @@
               "location": "東京都内オフィス"
             }
           ]
+        },
+        {
+          "id": "商船三井-20260701",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-01",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -13289,6 +13933,13 @@
               "location": "東京都内オフィス"
             }
           ]
+        },
+        {
+          "id": "鹿島建設-20260709",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-09",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -13547,6 +14198,13 @@
               "location": "東京都内オフィス"
             }
           ]
+        },
+        {
+          "id": "竹中工務店-20260701",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-01",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -13647,6 +14305,20 @@
               "location": "東京都内オフィス"
             }
           ]
+        },
+        {
+          "id": "capcom-intern-2026s",
+          "name": "カプコン夏季インターンシップ2026",
+          "deadline": "2026-07-18",
+          "period": "8月",
+          "selectionFlow": "ES→試験→面接→内定"
+        },
+        {
+          "id": "カプコン-20260712",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-12",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
         }
       ],
       "mainSelection": {
@@ -13748,6 +14420,13 @@
               "location": "東京都内オフィス"
             }
           ]
+        },
+        {
+          "id": "sqex-intern-2026s",
+          "name": "スクウェア・エニックス夏季インターン",
+          "deadline": "2026-07-10",
+          "period": "8月",
+          "selectionFlow": "ES→技術課題→面接→内定"
         }
       ],
       "mainSelection": {
@@ -13835,6 +14514,13 @@
               "location": "東京都内オフィス"
             }
           ]
+        },
+        {
+          "id": "koei-intern-2026s",
+          "name": "コーエーテクモゲームスインターン",
+          "deadline": "2026-07-25",
+          "period": "8月",
+          "selectionFlow": "ES→課題→面接→内定"
         }
       ],
       "mainSelection": {
@@ -14046,7 +14732,15 @@
       "workStyle": [],
       "listed": true,
       "newGradSalary": "",
-      "internships": [],
+      "internships": [
+        {
+          "id": "mixi-intern-2026s",
+          "name": "MixiサマーインターンDeveloper",
+          "deadline": "2026-07-14",
+          "period": "8月2週間",
+          "selectionFlow": "ES→コーディング→面接→内定"
+        }
+      ],
       "mainSelection": {}
     },
     {
@@ -14088,7 +14782,15 @@
       "workStyle": [],
       "listed": true,
       "newGradSalary": "",
-      "internships": [],
+      "internships": [
+        {
+          "id": "gree-intern-2026s",
+          "name": "GREE Summer Tech Camp 2026",
+          "deadline": "2026-07-12",
+          "period": "8月",
+          "selectionFlow": "ES→コーディングテスト→面接→内定"
+        }
+      ],
       "mainSelection": {}
     },
     {
@@ -14758,7 +15460,15 @@
       "workStyle": [],
       "listed": true,
       "newGradSalary": "",
-      "internships": [],
+      "internships": [
+        {
+          "id": "TBSテレビ-20260703",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-03",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ],
       "mainSelection": {}
     },
     {
@@ -14796,7 +15506,15 @@
       "workStyle": [],
       "listed": true,
       "newGradSalary": "",
-      "internships": [],
+      "internships": [
+        {
+          "id": "日本テレビ放送網-20260729",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-29",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ],
       "mainSelection": {}
     },
     {
@@ -14834,7 +15552,15 @@
       "workStyle": [],
       "listed": true,
       "newGradSalary": "",
-      "internships": [],
+      "internships": [
+        {
+          "id": "テレビ東京ホール-20260703",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-03",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ],
       "mainSelection": {}
     },
     {
@@ -14919,7 +15645,15 @@
       "workStyle": [],
       "listed": true,
       "newGradSalary": "",
-      "internships": [],
+      "internships": [
+        {
+          "id": "朝日新聞社-20260731",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-31",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ],
       "mainSelection": {}
     },
     {
@@ -15116,7 +15850,15 @@
       "workStyle": [],
       "listed": true,
       "newGradSalary": "",
-      "internships": [],
+      "internships": [
+        {
+          "id": "JERA-20260705",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-05",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ],
       "mainSelection": {}
     },
     {
@@ -15197,7 +15939,15 @@
       "workStyle": [],
       "listed": true,
       "newGradSalary": "",
-      "internships": [],
+      "internships": [
+        {
+          "id": "東京メトロ-20260717",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-17",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ],
       "mainSelection": {}
     },
     {
@@ -15274,7 +16024,15 @@
       "workStyle": [],
       "listed": true,
       "newGradSalary": "",
-      "internships": [],
+      "internships": [
+        {
+          "id": "近鉄グループホー-20260727",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-27",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ],
       "mainSelection": {}
     },
     {
@@ -15359,7 +16117,15 @@
       "workStyle": [],
       "listed": true,
       "newGradSalary": "",
-      "internships": [],
+      "internships": [
+        {
+          "id": "大和ハウス工業-20260705",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-05",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ],
       "mainSelection": {}
     },
     {
@@ -15631,7 +16397,15 @@
       "workStyle": [],
       "listed": true,
       "newGradSalary": "",
-      "internships": [],
+      "internships": [
+        {
+          "id": "旭化成-20260702",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-02",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ],
       "mainSelection": {}
     },
     {
@@ -15673,7 +16447,15 @@
       "workStyle": [],
       "listed": true,
       "newGradSalary": "",
-      "internships": [],
+      "internships": [
+        {
+          "id": "住友化学-20260701",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-01",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ],
       "mainSelection": {}
     },
     {
@@ -15715,7 +16497,15 @@
       "workStyle": [],
       "listed": true,
       "newGradSalary": "",
-      "internships": [],
+      "internships": [
+        {
+          "id": "三菱ケミカル-20260705",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-05",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ],
       "mainSelection": {}
     },
     {
@@ -16121,7 +16911,15 @@
       "workStyle": [],
       "listed": true,
       "newGradSalary": "",
-      "internships": [],
+      "internships": [
+        {
+          "id": "サッポロホールデ-20260729",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-29",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ],
       "mainSelection": {}
     },
     {
@@ -16329,7 +17127,15 @@
       "workStyle": [],
       "listed": true,
       "newGradSalary": "",
-      "internships": [],
+      "internships": [
+        {
+          "id": "セコム-20260706",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-06",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ],
       "mainSelection": {}
     },
     {
@@ -16524,7 +17330,15 @@
       "workStyle": [],
       "listed": true,
       "newGradSalary": "",
-      "internships": [],
+      "internships": [
+        {
+          "id": "google-intern-2026s",
+          "name": "Google STEP Intern Summer 2026",
+          "deadline": "2026-07-01",
+          "period": "8~9月",
+          "selectionFlow": "書類→コーディング面接3回→チームマッチング→内定"
+        }
+      ],
       "mainSelection": {}
     },
     {
@@ -16567,7 +17381,15 @@
       "workStyle": [],
       "listed": true,
       "newGradSalary": "",
-      "internships": [],
+      "internships": [
+        {
+          "id": "amazon-intern-2026s",
+          "name": "Amazon SDE Internship Summer 2026",
+          "deadline": "2026-07-15",
+          "period": "8~9月",
+          "selectionFlow": "書類→OA→面接4回（ループ面接）→内定"
+        }
+      ],
       "mainSelection": {}
     },
     {
@@ -16610,7 +17432,15 @@
       "workStyle": [],
       "listed": true,
       "newGradSalary": "",
-      "internships": [],
+      "internships": [
+        {
+          "id": "msft-intern-2026s",
+          "name": "Microsoft Explore Internship 2026",
+          "deadline": "2026-07-05",
+          "period": "8月",
+          "selectionFlow": "書類→コーディング面接→内定"
+        }
+      ],
       "mainSelection": {}
     },
     {
@@ -16652,7 +17482,15 @@
       "workStyle": [],
       "listed": true,
       "newGradSalary": "",
-      "internships": [],
+      "internships": [
+        {
+          "id": "apple-intern-2026s",
+          "name": "Apple Japan エンジニアリングInternship",
+          "deadline": "2026-07-10",
+          "period": "8~9月",
+          "selectionFlow": "書類→技術面接複数回→内定"
+        }
+      ],
       "mainSelection": {}
     },
     {
@@ -18120,7 +18958,15 @@
       "businessAreas": [],
       "benefits": [],
       "workStyle": [],
-      "internships": [],
+      "internships": [
+        {
+          "id": "sbi-intern-2026s",
+          "name": "SBI証券インターンシップ2026夏",
+          "deadline": "2026-07-20",
+          "period": "8月",
+          "selectionFlow": "ES→適性検査→面接→内定"
+        }
+      ],
       "listed": true,
       "newGradSalary": "",
       "mainSelection": {}
@@ -18158,7 +19004,15 @@
       "businessAreas": [],
       "benefits": [],
       "workStyle": [],
-      "internships": [],
+      "internships": [
+        {
+          "id": "楽天証券-20260715",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-15",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ],
       "listed": true,
       "newGradSalary": "",
       "mainSelection": {}
@@ -18322,7 +19176,15 @@
       "businessAreas": [],
       "benefits": [],
       "workStyle": [],
-      "internships": [],
+      "internships": [
+        {
+          "id": "三菱UFJモルガ-20260712",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-12",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ],
       "listed": true,
       "newGradSalary": "",
       "mainSelection": {}
@@ -18668,7 +19530,15 @@
       "businessAreas": [],
       "benefits": [],
       "workStyle": [],
-      "internships": [],
+      "internships": [
+        {
+          "id": "東宝-20260731",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-31",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ],
       "listed": true,
       "newGradSalary": "",
       "mainSelection": {}
@@ -19405,7 +20275,15 @@
       "businessAreas": [],
       "benefits": [],
       "workStyle": [],
-      "internships": [],
+      "internships": [
+        {
+          "id": "PKSHA Te-20260707",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-07",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ],
       "listed": true,
       "newGradSalary": "",
       "mainSelection": {}
@@ -19557,7 +20435,22 @@
       "businessAreas": [],
       "benefits": [],
       "workStyle": [],
-      "internships": [],
+      "internships": [
+        {
+          "id": "タイミー-20260720",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-20",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        },
+        {
+          "id": "タイミー-20260731",
+          "name": "サマーインターン2026（第2回）",
+          "deadline": "2026-07-31",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ],
       "listed": true,
       "newGradSalary": "",
       "mainSelection": {}
@@ -19863,7 +20756,16 @@
       "website": "https://www.docomo.ne.jp",
       "employees": "約9,900人（単体）",
       "headquarters": "東京都千代田区",
-      "founded": "1992年"
+      "founded": "1992年",
+      "internships": [
+        {
+          "id": "NTTドコモ-20260710",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-10",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ]
     },
     {
       "companyName": "NTTコミュニケーションズ",
@@ -20076,7 +20978,16 @@
       "website": "https://www.tis.co.jp",
       "employees": "約6,100人（単体）",
       "headquarters": "東京都新宿区",
-      "founded": "1971年"
+      "founded": "1971年",
+      "internships": [
+        {
+          "id": "tis-intern-2026s",
+          "name": "TISサマーインターン2026",
+          "deadline": "2026-07-18",
+          "period": "8月",
+          "selectionFlow": "ES→適性検査→面接→内定"
+        }
+      ]
     },
     {
       "companyName": "SCSK",
@@ -20113,7 +21024,16 @@
       "website": "https://www.scsk.jp",
       "employees": "約7,700人",
       "headquarters": "東京都江東区",
-      "founded": "1969年"
+      "founded": "1969年",
+      "internships": [
+        {
+          "id": "scsk-intern-2026s",
+          "name": "SCSKインターンシップ2026夏",
+          "deadline": "2026-07-20",
+          "period": "8月",
+          "selectionFlow": "ES→適性検査→面接→内定"
+        }
+      ]
     },
     {
       "companyName": "日鉄ソリューションズ（NSSOL）",
@@ -20216,7 +21136,16 @@
       "website": "https://www.otsuka-shokai.co.jp",
       "employees": "約10,500人",
       "headquarters": "東京都千代田区",
-      "founded": "1961年"
+      "founded": "1961年",
+      "internships": [
+        {
+          "id": "大塚商会-20260701",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-01",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ]
     },
     {
       "companyName": "日立ソリューションズ",
@@ -20839,7 +21768,23 @@
       "website": "https://www.accenture.com/jp",
       "employees": "約20,000人（日本）",
       "headquarters": "東京都港区",
-      "founded": "1962年（日本法人）"
+      "founded": "1962年（日本法人）",
+      "internships": [
+        {
+          "id": "accenture-intern-2026s",
+          "name": "Accenture サマーインターン2026",
+          "deadline": "2026-07-10",
+          "period": "8月",
+          "selectionFlow": "ES→Webテスト→グループ面接→個人面接→内定"
+        },
+        {
+          "id": "アクセンチュア -20260715",
+          "name": "Accenture サマーインターン2026",
+          "deadline": "2026-07-15",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ]
     },
     {
       "companyName": "フューチャー（Future）",
@@ -20871,7 +21816,23 @@
       "website": "https://future.co.jp",
       "employees": "約1,500人",
       "headquarters": "東京都品川区",
-      "founded": "1989年"
+      "founded": "1989年",
+      "internships": [
+        {
+          "id": "フューチャーF-20260711",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-11",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        },
+        {
+          "id": "フューチャーF-20260713",
+          "name": "サマーインターン2026（第2回）",
+          "deadline": "2026-07-13",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ]
     },
     {
       "companyName": "トレンドマイクロ",
@@ -21052,7 +22013,16 @@
       "mainSelection": {
         "esDeadline": "",
         "selectionFlow": "ES→Webテスト→技術面接→最終面接→内定"
-      }
+      },
+      "internships": [
+        {
+          "id": "SUBARUス-20260702",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-02",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ]
     },
     {
       "id": "suzuki",
@@ -21078,7 +22048,16 @@
       "mainSelection": {
         "esDeadline": "",
         "selectionFlow": "ES→Webテスト→面接2~3回→内定"
-      }
+      },
+      "internships": [
+        {
+          "id": "スズキ-20260705",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-05",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ]
     },
     {
       "id": "isuzu",
@@ -21203,7 +22182,16 @@
       "mainSelection": {
         "esDeadline": "",
         "selectionFlow": "ES→Webテスト→面接3回→内定"
-      }
+      },
+      "internships": [
+        {
+          "id": "川崎重工業-20260712",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-12",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ]
     },
     {
       "id": "shin-etsu",
@@ -21229,7 +22217,16 @@
       "mainSelection": {
         "esDeadline": "",
         "selectionFlow": "ES→Webテスト→面接3回→内定"
-      }
+      },
+      "internships": [
+        {
+          "id": "shinetsu-intern-2026s",
+          "name": "信越化学工業夏季インターンシップ2026",
+          "deadline": "2026-07-10",
+          "period": "8月",
+          "selectionFlow": "ES→Webテスト→面接→内定"
+        }
+      ]
     },
     {
       "id": "mitsui-chem",
@@ -21307,7 +22304,16 @@
       "mainSelection": {
         "esDeadline": "",
         "selectionFlow": "ES→Webテスト→面接3回→内定"
-      }
+      },
+      "internships": [
+        {
+          "id": "kao-intern-2026s",
+          "name": "花王サマーインターンシップ2026",
+          "deadline": "2026-07-12",
+          "period": "8月",
+          "selectionFlow": "ES→Webテスト→面接→内定"
+        }
+      ]
     },
     {
       "id": "lion",
@@ -21438,7 +22444,16 @@
       "mainSelection": {
         "esDeadline": "",
         "selectionFlow": "ES→Webテスト→面接複数回→内定"
-      }
+      },
+      "internships": [
+        {
+          "id": "森永乳業-20260703",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-03",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ]
     },
     {
       "id": "nisshin-seifun",
@@ -21464,7 +22479,16 @@
       "mainSelection": {
         "esDeadline": "",
         "selectionFlow": "ES→Webテスト→面接複数回→内定"
-      }
+      },
+      "internships": [
+        {
+          "id": "日清製粉グループ-20260709",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-09",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ]
     },
     {
       "id": "maeda-const",
@@ -21564,7 +22588,16 @@
       "mainSelection": {
         "esDeadline": "",
         "selectionFlow": "ES→Webテスト→面接複数回→内定"
-      }
+      },
+      "internships": [
+        {
+          "id": "西日本旅客鉄道-20260703",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-03",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ]
     },
     {
       "id": "tokyu-rail",
@@ -21614,7 +22647,16 @@
       "mainSelection": {
         "esDeadline": "",
         "selectionFlow": "ES→Webテスト→面接複数回→内定"
-      }
+      },
+      "internships": [
+        {
+          "id": "小田急電鉄-20260721",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-21",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ]
     },
     {
       "id": "keikyu",
@@ -21895,7 +22937,16 @@
       "mainSelection": {
         "esDeadline": "",
         "selectionFlow": "ES→Webテスト→面接複数回→内定"
-      }
+      },
+      "internships": [
+        {
+          "id": "マイナビ-20260706",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-06",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ]
     },
     {
       "id": "persol-career",
@@ -22025,7 +23076,16 @@
       "mainSelection": {
         "esDeadline": "",
         "selectionFlow": "ES→Webテスト→面接3回→内定"
-      }
+      },
+      "internships": [
+        {
+          "id": "富士フイルムホー-20260721",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-21",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ]
     },
     {
       "id": "concordia",
@@ -22051,7 +23111,16 @@
       "mainSelection": {
         "esDeadline": "",
         "selectionFlow": "ES→Webテスト→面接複数回→内定"
-      }
+      },
+      "internships": [
+        {
+          "id": "横浜銀行コンコ-20260728",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-28",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ]
     },
     {
       "id": "chiba-bank",
@@ -22077,7 +23146,16 @@
       "mainSelection": {
         "esDeadline": "",
         "selectionFlow": "ES→Webテスト→面接複数回→内定"
-      }
+      },
+      "internships": [
+        {
+          "id": "千葉銀行-20260712",
+          "name": "サマーインターン2026",
+          "deadline": "2026-07-12",
+          "period": "7~8月",
+          "selectionFlow": "ES→面接→内定"
+        }
+      ]
     },
     {
       "id": "mori-trust",
@@ -22137,6 +23215,13 @@
           "deadline": "",
           "period": "夏・随時",
           "selectionFlow": "書類→技術面接→内定"
+        },
+        {
+          "id": "paypay-intern-2026s",
+          "name": "PayPay Summer Tech Internship 2026",
+          "deadline": "2026-07-20",
+          "period": "8月",
+          "selectionFlow": "書類→コーディング→技術面接→内定"
         }
       ]
     },
@@ -22173,6 +23258,13 @@
           "deadline": "",
           "period": "夏",
           "selectionFlow": "書類→面接→内定"
+        },
+        {
+          "id": "raksul-intern-2026s",
+          "name": "ラクスルサマーインターン2026",
+          "deadline": "2026-07-15",
+          "period": "8月",
+          "selectionFlow": "書類→コーディング→面接→内定"
         }
       ]
     },
