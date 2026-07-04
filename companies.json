@@ -1,5 +1,5 @@
 {
-  "version": "2.5.0",
+  "version": "2.6.0",
   "updatedAt": "2026-07-04",
   "note": "締切日・募集要項は変更される場合があります。各社公式サイトで必ずご確認ください。",
   "companies": [
@@ -21001,6 +21001,1215 @@
       "employees": "非公開（日本）",
       "headquarters": "東京都港区",
       "founded": "2013年（米国本社）"
+    },
+    {
+      "id": "mazda",
+      "companyName": "マツダ",
+      "reading": "まつだ",
+      "industry": "maker_auto",
+      "website": "https://www.mazda.co.jp",
+      "recruitUrl": "https://www.mazda.co.jp/careers/",
+      "description": "広島を本拠地とする自動車メーカー。SKYACTIV技術による高効率エンジンとロータリーエンジン技術で独自の立ち位置を確立。魂動デザインで世界的に高い評価を獲得。",
+      "businessAreas": [
+        "自動車製造",
+        "エンジン開発",
+        "車両デザイン",
+        "モビリティソリューション"
+      ],
+      "avgSalary": "730万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "730万円",
+        "designer": "700万円",
+        "business": "700万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接3回→内定"
+      }
+    },
+    {
+      "id": "subaru",
+      "companyName": "SUBARU（スバル）",
+      "reading": "すばる",
+      "industry": "maker_auto",
+      "website": "https://www.subaru.co.jp",
+      "recruitUrl": "https://www.subaru.co.jp/careers/",
+      "description": "四輪駆動・水平対向エンジンを核とする自動車メーカー。EyeSightに代表される先進安全技術やWRXなどのスポーツモデルで世界的ブランドを確立。",
+      "businessAreas": [
+        "自動車製造",
+        "先進安全技術",
+        "航空宇宙事業",
+        "産業機器"
+      ],
+      "avgSalary": "750万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "760万円",
+        "designer": "720万円",
+        "business": "710万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→技術面接→最終面接→内定"
+      }
+    },
+    {
+      "id": "suzuki",
+      "companyName": "スズキ",
+      "reading": "すずき",
+      "industry": "maker_auto",
+      "website": "https://www.suzuki.co.jp",
+      "recruitUrl": "https://www.suzuki.co.jp/recruit/",
+      "description": "軽自動車・小型車で国内首位クラスのシェアを持つ自動車メーカー。インドではマルチスズキが市場を席巻。バイク・船外機事業でも世界トップクラス。",
+      "businessAreas": [
+        "自動車製造",
+        "二輪車製造",
+        "船外機・パワープロダクツ",
+        "新興国市場開拓"
+      ],
+      "avgSalary": "700万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "710万円",
+        "designer": "690万円",
+        "business": "680万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接2~3回→内定"
+      }
+    },
+    {
+      "id": "isuzu",
+      "companyName": "いすゞ自動車",
+      "reading": "いすずじどうしゃ",
+      "industry": "maker_auto",
+      "website": "https://www.isuzu.co.jp",
+      "recruitUrl": "https://www.isuzu.co.jp/career/",
+      "description": "商用車・ディーゼルエンジンで世界トップクラスのメーカー。トラック・バス分野で圧倒的な国内シェアを誇り、アジア・アフリカを中心に世界150か国以上に展開。",
+      "businessAreas": [
+        "商用車製造",
+        "ディーゼルエンジン開発",
+        "バス・トラック事業",
+        "新興国展開"
+      ],
+      "avgSalary": "740万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "750万円",
+        "business": "720万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接複数回→内定"
+      }
+    },
+    {
+      "id": "hino",
+      "companyName": "日野自動車",
+      "reading": "ひのじどうしゃ",
+      "industry": "maker_auto",
+      "website": "https://www.hino.co.jp",
+      "recruitUrl": "https://www.hino.co.jp/recruit/",
+      "description": "トヨタグループの商用車メーカー。日本最大のトラック・バスメーカーとして国内シェア首位。電動化・自動運転技術の開発でカーボンニュートラル実現に向けた変革を進める。",
+      "businessAreas": [
+        "商用車製造",
+        "トラック・バス開発",
+        "電動化技術",
+        "自動運転システム"
+      ],
+      "avgSalary": "720万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "730万円",
+        "business": "700万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接複数回→内定"
+      }
+    },
+    {
+      "id": "bridgestone",
+      "companyName": "ブリヂストン",
+      "reading": "ぶりぢすとん",
+      "industry": "maker_auto",
+      "website": "https://www.bridgestone.co.jp",
+      "recruitUrl": "https://www.bridgestone.co.jp/corporate/careers/",
+      "description": "世界最大級のタイヤメーカー。150か国以上で展開しミシュランと世界トップを競う。近年はモビリティソリューション企業へのビジネスモデル転換を推進中。",
+      "businessAreas": [
+        "タイヤ製造",
+        "ゴム製品",
+        "モビリティソリューション",
+        "スポーツ用品"
+      ],
+      "avgSalary": "800万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "810万円",
+        "business": "790万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接3回→内定"
+      }
+    },
+    {
+      "id": "yamaha-motor",
+      "companyName": "ヤマハ発動機",
+      "reading": "やまははつどうき",
+      "industry": "maker_auto",
+      "website": "https://www.yamaha-motor.co.jp",
+      "recruitUrl": "https://www.yamaha-motor.co.jp/recruit/",
+      "description": "二輪・船外機・産業用ロボットを手掛けるグローバルメーカー。モーターサイクルでは世界2位のシェアを誇り、自動化・ロボット事業にも積極注力している。",
+      "businessAreas": [
+        "二輪車製造",
+        "船外機・マリン事業",
+        "産業用ロボット・機械",
+        "電動モビリティ"
+      ],
+      "avgSalary": "740万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "760万円",
+        "business": "710万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→適性検査→面接複数回→内定"
+      }
+    },
+    {
+      "id": "kawasaki-heavy",
+      "companyName": "川崎重工業",
+      "reading": "かわさきじゅうこうぎょう",
+      "industry": "maker_auto",
+      "website": "https://www.khi.co.jp",
+      "recruitUrl": "https://www.khi.co.jp/recruit/",
+      "description": "航空・宇宙・鉄道・船舶・二輪車・産業機械に至る幅広い製造分野を持つ重工業メーカー。水素エネルギー事業にも先行投資しカーボンニュートラル社会の実現を牽引する。",
+      "businessAreas": [
+        "航空・宇宙",
+        "鉄道車両",
+        "二輪車・汎用機",
+        "水素エネルギー・環境"
+      ],
+      "avgSalary": "780万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "800万円",
+        "business": "750万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接3回→内定"
+      }
+    },
+    {
+      "id": "shin-etsu",
+      "companyName": "信越化学工業",
+      "reading": "しんえつかがくこうぎょう",
+      "industry": "maker_chem",
+      "website": "https://www.shinetsu.co.jp",
+      "recruitUrl": "https://www.shinetsu.co.jp/jp/recruit/",
+      "description": "半導体シリコンウエハーで世界最大シェアを持つ化学メーカー。塩化ビニル・シリコーン・希土類磁石など多分野で圧倒的な技術力を持ち、30年以上連続増益の超優良企業。",
+      "businessAreas": [
+        "半導体シリコン",
+        "塩化ビニル・有機化学",
+        "機能性材料・シリコーン",
+        "希土類磁石"
+      ],
+      "avgSalary": "950万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "970万円",
+        "researcher": "960万円",
+        "business": "920万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接3回→内定"
+      }
+    },
+    {
+      "id": "mitsui-chem",
+      "companyName": "三井化学",
+      "reading": "みついかがく",
+      "industry": "maker_chem",
+      "website": "https://jp.mitsuichemicals.com",
+      "recruitUrl": "https://jp.mitsuichemicals.com/jp/recruit/",
+      "description": "三井グループの化学メーカー。エラストマー・機能材料・農業化学品など多岐にわたる化学製品を展開。半導体・モビリティ・ヘルスケア分野への素材提供で社会課題解決に貢献。",
+      "businessAreas": [
+        "機能性材料",
+        "エラストマー",
+        "農業化学品",
+        "ヘルスケア材料"
+      ],
+      "avgSalary": "830万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "850万円",
+        "researcher": "840万円",
+        "business": "800万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接2~3回→内定"
+      }
+    },
+    {
+      "id": "nippon-paint",
+      "companyName": "日本ペイントホールディングス",
+      "reading": "にっぽんぺいんとほーるでぃんぐす",
+      "industry": "maker_chem",
+      "website": "https://www.nipponpaint-holdings.com",
+      "recruitUrl": "https://www.nipponpaint-holdings.com/ja/careers/",
+      "description": "アジア最大の塗料メーカーグループ。建築用・自動車用塗料で国内首位。シンガポールのウットラム・グループと提携しアジア・中東・アフリカへ積極的に事業拡大中。",
+      "businessAreas": [
+        "建築用塗料",
+        "自動車用塗料",
+        "工業用塗料",
+        "機能性材料"
+      ],
+      "avgSalary": "800万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "820万円",
+        "business": "790万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接複数回→内定"
+      }
+    },
+    {
+      "id": "kao",
+      "companyName": "花王",
+      "reading": "かおう",
+      "industry": "maker_chem",
+      "website": "https://www.kao.co.jp",
+      "recruitUrl": "https://www.kao.co.jp/careers/",
+      "description": "化粧品・日用品・化学品を手掛ける消費財大手。「ビオレ」「アタック」「メリーズ」などで圧倒的な国内知名度を誇る。ESG経営の先進企業としても高い評価を受ける。",
+      "businessAreas": [
+        "ビューティーケア",
+        "生活者ケア",
+        "ファブリック・ホームケア",
+        "化学品事業"
+      ],
+      "avgSalary": "840万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "researcher": "860万円",
+        "engineer": "850万円",
+        "marketing": "830万円",
+        "business": "820万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接3回→内定"
+      }
+    },
+    {
+      "id": "lion",
+      "companyName": "ライオン",
+      "reading": "らいおん",
+      "industry": "maker_chem",
+      "website": "https://www.lion.co.jp",
+      "recruitUrl": "https://www.lion.co.jp/ja/recruit/",
+      "description": "「システマ」「バファリン」「トップ」などで知られる生活用品・医薬品メーカー。口腔ケアから洗剤・医薬品まで幅広い製品を展開し、健康習慣の形成を使命に掲げる。",
+      "businessAreas": [
+        "オーラルケア",
+        "洗剤・クリーナー",
+        "ヘルスケア製品",
+        "ペット用品"
+      ],
+      "avgSalary": "790万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "researcher": "810万円",
+        "engineer": "800万円",
+        "business": "780万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接3回→内定"
+      }
+    },
+    {
+      "id": "nippon-ham",
+      "companyName": "日本ハム",
+      "reading": "にっぽんはむ",
+      "industry": "maker_food",
+      "website": "https://www.nipponham.co.jp",
+      "recruitUrl": "https://www.nipponham.co.jp/recruit/",
+      "description": "ハム・ソーセージで国内トップシェアの食品メーカー。加工食品から生鮮食品・外食事業まで幅広く展開。プロ野球球団（北海道日本ハムファイターズ）のオーナー企業としても有名。",
+      "businessAreas": [
+        "加工食品",
+        "生鮮食品",
+        "低温食品",
+        "外食・外販"
+      ],
+      "avgSalary": "750万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "researcher": "760万円",
+        "engineer": "750万円",
+        "business": "730万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接複数回→内定"
+      }
+    },
+    {
+      "id": "calbee",
+      "companyName": "カルビー",
+      "reading": "かるびー",
+      "industry": "maker_food",
+      "website": "https://www.calbee.co.jp",
+      "recruitUrl": "https://www.calbee.co.jp/recruit/",
+      "description": "「かっぱえびせん」「じゃがりこ」「フルグラ」でおなじみのスナック菓子大手。シリアル市場でも国内首位。PepsiCoと合弁でアジア・北米へのグローバル展開を加速中。",
+      "businessAreas": [
+        "スナック菓子",
+        "シリアル・グラノーラ",
+        "ポテトチップス",
+        "健康食品"
+      ],
+      "avgSalary": "730万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "researcher": "740万円",
+        "marketing": "740万円",
+        "engineer": "730万円",
+        "business": "720万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接3回→内定"
+      }
+    },
+    {
+      "id": "kikkoman",
+      "companyName": "キッコーマン",
+      "reading": "きっこーまん",
+      "industry": "maker_food",
+      "website": "https://www.kikkoman.co.jp",
+      "recruitUrl": "https://www.kikkoman.co.jp/company/recruit/",
+      "description": "醤油で世界トップブランドを持つ食品メーカー。国内シェア3割超の本醸造醤油をはじめ、デルモンテブランドで食品・飲料も展開。海外売上比率は5割を超えグローバル展開が進む。",
+      "businessAreas": [
+        "醤油・調味料",
+        "食料品・飲料",
+        "食品加工",
+        "レストラン・外食事業"
+      ],
+      "avgSalary": "780万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "researcher": "790万円",
+        "engineer": "780万円",
+        "business": "760万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接複数回→内定"
+      }
+    },
+    {
+      "id": "morinaga-milk",
+      "companyName": "森永乳業",
+      "reading": "もりながにゅうぎょう",
+      "industry": "maker_food",
+      "website": "https://www.morinagamilk.co.jp",
+      "recruitUrl": "https://www.morinagamilk.co.jp/company/recruit/",
+      "description": "「マウントレーニア」「ビヒダス」「クラフト」などで知られる乳製品メーカー。チーズ・アイスクリーム・機能性食品にも注力し、腸内フローラ研究では世界的評価を受ける。",
+      "businessAreas": [
+        "牛乳・乳製品",
+        "チーズ・バター",
+        "アイスクリーム",
+        "機能性食品・サプリ"
+      ],
+      "avgSalary": "740万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "researcher": "760万円",
+        "engineer": "750万円",
+        "business": "720万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接複数回→内定"
+      }
+    },
+    {
+      "id": "nisshin-seifun",
+      "companyName": "日清製粉グループ本社",
+      "reading": "にっしんせいふんぐるーぷほんしゃ",
+      "industry": "maker_food",
+      "website": "https://www.nisshin.com",
+      "recruitUrl": "https://www.nisshin.com/recruit/",
+      "description": "国内最大の製粉メーカーグループ。小麦粉市場で圧倒的なシェアを持ち、パスタ・プレミックス・酵母などの食品事業とエンジニアリング・バイオなど多角的に事業展開。",
+      "businessAreas": [
+        "製粉・小麦粉",
+        "パスタ・加工食品",
+        "食品素材",
+        "エンジニアリング"
+      ],
+      "avgSalary": "790万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "researcher": "800万円",
+        "engineer": "790万円",
+        "business": "770万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接複数回→内定"
+      }
+    },
+    {
+      "id": "maeda-const",
+      "companyName": "前田建設工業",
+      "reading": "まえだけんせつこうぎょう",
+      "industry": "construct",
+      "website": "https://www.maeda.co.jp",
+      "recruitUrl": "https://www.maeda.co.jp/recruit/",
+      "description": "準大手ゼネコン。土木・建築両分野に強みを持ち、PPP/PFI事業や再生可能エネルギーにも積極投資。産学連携による建設DXの推進でも業界をリードする。",
+      "businessAreas": [
+        "土木・建築工事",
+        "PPP/PFI事業",
+        "不動産開発",
+        "建設DX"
+      ],
+      "avgSalary": "780万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "800万円",
+        "business": "760万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接複数回→内定"
+      }
+    },
+    {
+      "id": "nishimatsu",
+      "companyName": "西松建設",
+      "reading": "にしまつけんせつ",
+      "industry": "construct",
+      "website": "https://www.nishimatsu.co.jp",
+      "recruitUrl": "https://www.nishimatsu.co.jp/recruit/",
+      "description": "創業150年超の歴史を持つ中堅ゼネコン。土木・海外事業に強みを持ち、東南アジアを中心に海外展開が活発。PPP事業や防災インフラ整備など社会インフラの維持・創造に貢献。",
+      "businessAreas": [
+        "土木工事",
+        "建築工事",
+        "海外事業（東南アジア）",
+        "PPP事業"
+      ],
+      "avgSalary": "770万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "790万円",
+        "business": "750万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接複数回→内定"
+      }
+    },
+    {
+      "id": "penta-ocean",
+      "companyName": "五洋建設",
+      "reading": "ごようけんせつ",
+      "industry": "construct",
+      "website": "https://www.penta-ocean.co.jp",
+      "recruitUrl": "https://www.penta-ocean.co.jp/recruit/",
+      "description": "港湾・海洋工事に特化した国内トップの海洋土木ゼネコン。護岸・埋め立て・海底トンネルなど海洋建設技術は世界最高水準。アジアを中心に海外インフラプロジェクトも多数手掛ける。",
+      "businessAreas": [
+        "港湾・海洋工事",
+        "土木工事",
+        "建築工事",
+        "海外インフラ"
+      ],
+      "avgSalary": "750万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "770万円",
+        "business": "730万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接複数回→内定"
+      }
+    },
+    {
+      "id": "jr-west",
+      "companyName": "西日本旅客鉄道（JR西日本）",
+      "reading": "にしにほんりょかくてつどう",
+      "industry": "transport",
+      "website": "https://www.westjr.co.jp",
+      "recruitUrl": "https://www.westjr.co.jp/recruit/",
+      "description": "関西・中国・北陸・九州北部を管轄するJRグループ企業。新幹線から在来線まで幅広い鉄道網を持ち、駅ナカ商業施設・ホテル・不動産など非鉄道事業にも積極展開している。",
+      "businessAreas": [
+        "鉄道事業",
+        "駅・商業施設開発",
+        "ホテル・旅行",
+        "物流・メンテナンス"
+      ],
+      "avgSalary": "740万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "750万円",
+        "business": "730万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接複数回→内定"
+      }
+    },
+    {
+      "id": "tokyu-rail",
+      "companyName": "東急電鉄",
+      "reading": "とうきゅうでんてつ",
+      "industry": "transport",
+      "website": "https://www.tokyu.co.jp",
+      "recruitUrl": "https://www.tokyu.co.jp/recruit/",
+      "description": "渋谷・横浜を結ぶ首都圏有数の私鉄。沿線開発や不動産・ホテル事業とのシナジーが強み。渋谷スクランブルスクエアなど再開発プロジェクトを手掛け、沿線の価値向上を追求している。",
+      "businessAreas": [
+        "鉄道事業",
+        "不動産・都市開発",
+        "ホテル・リゾート",
+        "生活サービス"
+      ],
+      "avgSalary": "730万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "740万円",
+        "business": "720万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接複数回→内定"
+      }
+    },
+    {
+      "id": "odakyu",
+      "companyName": "小田急電鉄",
+      "reading": "おだきゅうでんてつ",
+      "industry": "transport",
+      "website": "https://www.odakyu.jp",
+      "recruitUrl": "https://www.odakyu.jp/recruit/",
+      "description": "新宿〜小田原・箱根を結ぶ首都圏私鉄。「ロマンスカー」で知られる観光特急や百貨店・ホテル事業との統合が強み。沿線MaaSや再開発で沿線エリアの生活価値向上を推進している。",
+      "businessAreas": [
+        "鉄道事業",
+        "百貨店・商業施設",
+        "ホテル・観光",
+        "不動産開発"
+      ],
+      "avgSalary": "720万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "730万円",
+        "business": "710万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接複数回→内定"
+      }
+    },
+    {
+      "id": "keikyu",
+      "companyName": "京浜急行電鉄",
+      "reading": "けいひんきゅうこうでんてつ",
+      "industry": "transport",
+      "website": "https://www.keikyu.co.jp",
+      "recruitUrl": "https://www.keikyu.co.jp/recruit/",
+      "description": "品川〜横浜〜三浦半島を走る首都圏私鉄。羽田空港アクセス路線として存在感が高く、ホテル・不動産・バスなどグループで沿線生活を支える。品川再開発プロジェクトでも注目される。",
+      "businessAreas": [
+        "鉄道事業",
+        "ホテル・旅館",
+        "不動産",
+        "バス・流通"
+      ],
+      "avgSalary": "710万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "720万円",
+        "business": "700万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接複数回→内定"
+      }
+    },
+    {
+      "id": "familymart",
+      "companyName": "ファミリーマート",
+      "reading": "ふぁみりーまーと",
+      "industry": "retail",
+      "website": "https://www.family.co.jp",
+      "recruitUrl": "https://www.family.co.jp/company/recruit.html",
+      "description": "国内2位のコンビニチェーン。伊藤忠商事が大株主で、商品開発から物流・金融（ファミペイ）まで統合的に運営。中国・東南アジアに4,000店超を展開するグローバルコンビニ企業。",
+      "businessAreas": [
+        "コンビニエンスストア",
+        "デジタル・金融サービス",
+        "海外事業",
+        "物流・SCM"
+      ],
+      "avgSalary": "780万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "800万円",
+        "marketing": "790万円",
+        "business": "780万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接複数回→内定"
+      }
+    },
+    {
+      "id": "lawson",
+      "companyName": "ローソン",
+      "reading": "ろーそん",
+      "industry": "retail",
+      "website": "https://www.lawson.co.jp",
+      "recruitUrl": "https://www.lawson.co.jp/company/recruit/",
+      "description": "三菱商事・KDDIが大株主のコンビニチェーン。「健康」「スイーツ」で差別化を図りローソンファームや調剤薬局など新業態にも積極挑戦。デジタルと店舗の融合で業界の革新を進める。",
+      "businessAreas": [
+        "コンビニエンスストア",
+        "ヘルスケア・薬局",
+        "スマートストア",
+        "海外展開"
+      ],
+      "avgSalary": "760万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "780万円",
+        "marketing": "770万円",
+        "business": "760万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接複数回→内定"
+      }
+    },
+    {
+      "id": "ppih",
+      "companyName": "パン・パシフィック・インターナショナルHD（ドンキ）",
+      "reading": "ぱんぱしふぃっくいんたーなしょなるほーるでぃんぐす",
+      "industry": "retail",
+      "website": "https://www.ppih.co.jp",
+      "recruitUrl": "https://www.ppih.co.jp/recruit/",
+      "description": "「ドン・キホーテ」を運営する小売グループ。圧縮陳列と安さ・楽しさを融合した独自業態で業界で異彩を放つ。ユニーを傘下に収め北米・東南アジアにも積極展開している。",
+      "businessAreas": [
+        "ディスカウントストア",
+        "スーパーマーケット",
+        "ドラッグストア",
+        "海外小売"
+      ],
+      "avgSalary": "760万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "780万円",
+        "business": "760万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接複数回→内定"
+      }
+    },
+    {
+      "id": "chugoku-elec",
+      "companyName": "中国電力",
+      "reading": "ちゅうごくでんりょく",
+      "industry": "energy",
+      "website": "https://www.energia.co.jp",
+      "recruitUrl": "https://www.energia.co.jp/recruit/",
+      "description": "中国地方5県に電力を供給する地域電力会社。再生可能エネルギーへの転換を進めながら、エネルギー自由化に対応した新サービスや地域DX推進にも取り組んでいる。",
+      "businessAreas": [
+        "電力供給",
+        "再生可能エネルギー",
+        "ガス事業",
+        "情報・通信サービス"
+      ],
+      "avgSalary": "730万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "750万円",
+        "business": "710万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接複数回→内定"
+      }
+    },
+    {
+      "id": "shikoku-elec",
+      "companyName": "四国電力",
+      "reading": "しこくでんりょく",
+      "industry": "energy",
+      "website": "https://www.yonden.co.jp",
+      "recruitUrl": "https://www.yonden.co.jp/recruit/",
+      "description": "四国4県に電力を供給する地域電力会社。伊方原子力発電所を持ち、電力の安定供給と脱炭素化の両立を追求。ガス事業やIoT・DX事業も展開している。",
+      "businessAreas": [
+        "電力供給",
+        "ガス事業",
+        "原子力",
+        "再生可能エネルギー"
+      ],
+      "avgSalary": "720万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "740万円",
+        "business": "700万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接複数回→内定"
+      }
+    },
+    {
+      "id": "japex",
+      "companyName": "石油資源開発（JAPEX）",
+      "reading": "せきゆしげんかいはつ",
+      "industry": "energy",
+      "website": "https://www.japex.co.jp",
+      "recruitUrl": "https://www.japex.co.jp/recruit/",
+      "description": "国内最大の石油・天然ガス開発会社。国内外のガスフィールド開発・生産から供給まで一貫して手掛ける。CCS技術の社会実装にも先進的に取り組んでいる。",
+      "businessAreas": [
+        "石油・天然ガス開発",
+        "CCS・カーボンマネジメント",
+        "LNG事業",
+        "再生可能エネルギー"
+      ],
+      "avgSalary": "870万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "890万円",
+        "researcher": "870万円",
+        "business": "840万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接複数回→内定"
+      }
+    },
+    {
+      "id": "shueisha",
+      "companyName": "集英社",
+      "reading": "しゅうえいしゃ",
+      "industry": "media",
+      "website": "https://www.shueisha.co.jp",
+      "recruitUrl": "https://www.shueisha.co.jp/company/saiyou/",
+      "description": "「週刊少年ジャンプ」を擁し「ONE PIECE」「鬼滅の刃」など世界的IPを多数保有する大手出版社。電子書籍・動画配信・海外ライセンスへの展開でグローバルなマンガ文化を牽引する。",
+      "businessAreas": [
+        "コミック・週刊誌",
+        "女性・ファッション誌",
+        "デジタルメディア",
+        "海外ライセンス"
+      ],
+      "avgSalary": "850万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "editor": "850万円",
+        "business": "830万円",
+        "digital": "860万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→筆記試験→面接複数回→内定"
+      }
+    },
+    {
+      "id": "shogakukan",
+      "companyName": "小学館",
+      "reading": "しょうがくかん",
+      "industry": "media",
+      "website": "https://www.shogakukan.co.jp",
+      "recruitUrl": "https://www.shogakukan.co.jp/corporate/recruit",
+      "description": "「ドラえもん」「名探偵コナン」などの国民的IPを持つ大手出版社。漫画・辞典・実用書から幼児教育まで幅広いジャンルを網羅。電子出版・動画配信など次世代メディアにも積極展開。",
+      "businessAreas": [
+        "コミック・雑誌",
+        "児童書・教育",
+        "電子書籍・デジタル",
+        "映像・ゲーム化"
+      ],
+      "avgSalary": "840万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "editor": "840万円",
+        "business": "820万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→筆記試験→面接複数回→内定"
+      }
+    },
+    {
+      "id": "kodansha",
+      "companyName": "講談社",
+      "reading": "こうだんしゃ",
+      "industry": "media",
+      "website": "https://www.kodansha.co.jp",
+      "recruitUrl": "https://www.kodansha.co.jp/recruit/",
+      "description": "「進撃の巨人」「ブルーロック」など多数の人気IPを持つ国内最大の出版社。紙・電子・映像を融合したメディア企業へ進化し、グローバルなコンテンツ展開を加速している。",
+      "businessAreas": [
+        "コミック・雑誌",
+        "書籍・ライトノベル",
+        "電子書籍・配信",
+        "ライセンス・映像化"
+      ],
+      "avgSalary": "860万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "editor": "860万円",
+        "business": "840万円",
+        "digital": "870万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→筆記試験→面接複数回→内定"
+      }
+    },
+    {
+      "id": "mynavi",
+      "companyName": "マイナビ",
+      "reading": "まいなび",
+      "industry": "web",
+      "website": "https://www.mynavi.jp",
+      "recruitUrl": "https://www.mynavi.jp/saiyou/",
+      "description": "就職・転職情報サービス「マイナビ」を運営する人材サービス大手。就活生が最も利用するプラットフォームの一つで、人材紹介・派遣・イベント事業も展開している。",
+      "businessAreas": [
+        "新卒採用支援",
+        "転職・中途採用",
+        "人材紹介・派遣",
+        "イベント・メディア"
+      ],
+      "avgSalary": "720万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "750万円",
+        "marketing": "730万円",
+        "business": "720万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接複数回→内定"
+      }
+    },
+    {
+      "id": "persol-career",
+      "companyName": "パーソルキャリア",
+      "reading": "ぱーそるきゃりあ",
+      "industry": "web",
+      "website": "https://www.persol-career.co.jp",
+      "recruitUrl": "https://www.persol-career.co.jp/recruit/",
+      "description": "「doda」を運営するパーソルグループの中核企業。転職支援・エージェントサービスで国内最大手クラス。HR Tech分野でもデータ活用・AI採用支援ツールの開発を積極的に推進。",
+      "businessAreas": [
+        "転職・求人メディア（doda）",
+        "人材エージェント",
+        "HR Tech",
+        "採用コンサルティング"
+      ],
+      "avgSalary": "740万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "770万円",
+        "consultant": "760万円",
+        "business": "740万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接複数回→内定"
+      }
+    },
+    {
+      "id": "nitto-denko",
+      "companyName": "日東電工",
+      "reading": "にっとうでんこう",
+      "industry": "maker_elec",
+      "website": "https://www.nitto.com",
+      "recruitUrl": "https://www.nitto.com/jp/ja/careers/",
+      "description": "「テープ」から発展した機能性材料メーカー。液晶フィルム・光学フィルムで世界シェアトップを持ち、医薬品・膜分離技術など高付加価値分野に展開。材料技術で世界の製造業を支える。",
+      "businessAreas": [
+        "光学・液晶フィルム",
+        "粘接着テープ・材料",
+        "医薬品・医療機器",
+        "膜・水処理システム"
+      ],
+      "avgSalary": "840万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "researcher": "860万円",
+        "engineer": "850万円",
+        "business": "820万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接複数回→内定"
+      }
+    },
+    {
+      "id": "alps-alpine",
+      "companyName": "アルプスアルパイン",
+      "reading": "あるぷすあるぱいん",
+      "industry": "maker_elec",
+      "website": "https://www.alpsalpine.com",
+      "recruitUrl": "https://www.alpsalpine.com/j/careers/",
+      "description": "電子部品・車載情報機器で世界トップクラスのメーカー。スイッチ・センサ・通信モジュールなどの電子部品と、カーナビ・オーディオなどの情報機器を両翼にグローバル展開。",
+      "businessAreas": [
+        "電子部品（スイッチ・センサ）",
+        "車載情報機器",
+        "通信・ネットワーク機器",
+        "スマートデバイス"
+      ],
+      "avgSalary": "780万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "800万円",
+        "researcher": "790万円",
+        "business": "760万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接複数回→内定"
+      }
+    },
+    {
+      "id": "minebea",
+      "companyName": "ミネベアミツミ",
+      "reading": "みねべあみつみ",
+      "industry": "maker_elec",
+      "website": "https://www.minebeamitsumi.com",
+      "recruitUrl": "https://www.minebeamitsumi.com/careers/",
+      "description": "精密部品（ボールベアリング）で世界首位のメーカー。ミツミ電機と統合し、医療・航空宇宙・EV向け精密機器へ事業領域を拡大。超精密加工技術とMEMS技術で世界市場を席巻する。",
+      "businessAreas": [
+        "ボールベアリング・精密部品",
+        "EV・車載機器",
+        "航空宇宙・医療機器",
+        "MEMS・センサデバイス"
+      ],
+      "avgSalary": "790万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "810万円",
+        "researcher": "800万円",
+        "business": "770万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接複数回→内定"
+      }
+    },
+    {
+      "id": "fujifilm",
+      "companyName": "富士フイルムホールディングス",
+      "reading": "ふじふいるむほーるでぃんぐす",
+      "industry": "maker_elec",
+      "website": "https://holdings.fujifilm.com",
+      "recruitUrl": "https://holdings.fujifilm.com/ja/careers",
+      "description": "写真フィルムから医療・ヘルスケア・半導体材料へ大胆に事業変革した多角化企業。医療用CTや内視鏡・医薬品、半導体用フォトレジストなどで世界的な存在感を持つ。",
+      "businessAreas": [
+        "医療・ヘルスケア",
+        "半導体・ディスプレイ材料",
+        "文書・オフィス機器",
+        "バイオ医薬品CDMO"
+      ],
+      "avgSalary": "860万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "researcher": "880万円",
+        "engineer": "870万円",
+        "business": "840万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接3回→内定"
+      }
+    },
+    {
+      "id": "concordia",
+      "companyName": "横浜銀行（コンコルディア・FG）",
+      "reading": "よこはまぎんこう",
+      "industry": "finance",
+      "website": "https://www.boy.co.jp",
+      "recruitUrl": "https://www.boy.co.jp/recruit/",
+      "description": "神奈川県を地盤とする地方銀行最大手。東日本銀行と共に「コンコルディア・FG」を形成。法人融資・個人ローン・資産運用まで幅広い金融サービスで神奈川・東京の企業・個人を支援。",
+      "businessAreas": [
+        "法人融資・ソリューション",
+        "個人ローン・住宅ローン",
+        "資産運用・証券仲介",
+        "デジタルバンキング"
+      ],
+      "avgSalary": "710万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "banker": "710万円",
+        "IT": "730万円",
+        "business": "700万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接複数回→内定"
+      }
+    },
+    {
+      "id": "chiba-bank",
+      "companyName": "千葉銀行",
+      "reading": "ちばぎんこう",
+      "industry": "finance",
+      "website": "https://www.chibabank.co.jp",
+      "recruitUrl": "https://www.chibabank.co.jp/company/saiyou/",
+      "description": "千葉県最大の地方銀行。預金量・貸出量ともに地銀トップクラスの規模を持ち、房総エリアの産業・個人を幅広く支援。ちばぎん証券や信託・リース子会社との連携でワンストップサービスを提供。",
+      "businessAreas": [
+        "法人融資・コンサル",
+        "個人ローン・資産形成",
+        "証券・保険",
+        "デジタル金融"
+      ],
+      "avgSalary": "700万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "banker": "700万円",
+        "IT": "720万円",
+        "business": "690万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接複数回→内定"
+      }
+    },
+    {
+      "id": "mori-trust",
+      "companyName": "森トラスト",
+      "reading": "もりとらすと",
+      "industry": "realestate",
+      "website": "https://www.mori-trust.co.jp",
+      "recruitUrl": "https://www.mori-trust.co.jp/recruit/",
+      "description": "都心超高層ビル・ホテル・リゾート開発に強みを持つ総合不動産企業。「丸の内トラストタワー」などプレミアム物件を多数保有。高級ホテル事業でも国内外で高い評価を受ける。",
+      "businessAreas": [
+        "オフィス・商業施設開発",
+        "ホテル・リゾート",
+        "住宅・マンション",
+        "資産管理・ファンド"
+      ],
+      "avgSalary": "900万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "developer": "910万円",
+        "business": "890万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "ES→Webテスト→面接複数回→内定"
+      }
+    },
+    {
+      "id": "paypay",
+      "companyName": "PayPay",
+      "reading": "ぺいぺい",
+      "industry": "fintech",
+      "website": "https://paypay.ne.jp",
+      "recruitUrl": "https://about.paypay.ne.jp/careers/",
+      "description": "国内最大のQRコード決済サービス。累計6,000万人超のユーザーを持ちコード決済シェアNo.1。ソフトバンク・ヤフー出資のフィンテック企業で、保険・証券など金融サービスを拡張中。",
+      "businessAreas": [
+        "QRコード決済",
+        "フィンテック・金融サービス",
+        "ポイント・マーケティング",
+        "加盟店ソリューション"
+      ],
+      "avgSalary": "900万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "950万円",
+        "PM": "920万円",
+        "designer": "880万円",
+        "business": "870万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "書類選考→コーディング試験→面接3回→内定"
+      },
+      "internships": [
+        {
+          "id": "paypay-intern-1",
+          "name": "エンジニアインターン",
+          "deadline": "",
+          "period": "夏・随時",
+          "selectionFlow": "書類→技術面接→内定"
+        }
+      ]
+    },
+    {
+      "id": "raksul",
+      "companyName": "ラクスル",
+      "reading": "らくする",
+      "industry": "web",
+      "website": "https://raksul.com",
+      "recruitUrl": "https://raksul.com/careers/",
+      "description": "「仕組みを変えれば、世界はもっとよくなる」を掲げるB2Bプラットフォーム企業。印刷EC・物流DX・デジタル広告など業界DXサービスをシリアルに展開するユニコーン企業。",
+      "businessAreas": [
+        "印刷・販促ECプラットフォーム",
+        "物流DX（ハコベル）",
+        "デジタル広告（ノバセル）",
+        "業界横断プラットフォーム"
+      ],
+      "avgSalary": "850万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "900万円",
+        "PM": "870万円",
+        "designer": "840万円",
+        "business": "820万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "書類→コーディング→面接3~4回→内定"
+      },
+      "internships": [
+        {
+          "id": "raksul-intern-1",
+          "name": "サマーインターン",
+          "deadline": "",
+          "period": "夏",
+          "selectionFlow": "書類→面接→内定"
+        }
+      ]
+    },
+    {
+      "id": "pixiv",
+      "companyName": "ピクシブ（pixiv）",
+      "reading": "ぴくしぶ",
+      "industry": "web",
+      "website": "https://www.pixiv.co.jp",
+      "recruitUrl": "https://www.pixiv.co.jp/careers/",
+      "description": "イラスト投稿サービス「pixiv」を軸にクリエイターエコシステムを構築するコンテンツプラットフォーム企業。BOOTH（同人グッズEC）などを展開し国内外のクリエイター支援に貢献。",
+      "businessAreas": [
+        "クリエイタープラットフォーム（pixiv）",
+        "クリエイターEC（BOOTH）",
+        "コンテンツIP開発",
+        "AIアート・ツール"
+      ],
+      "avgSalary": "750万円",
+      "internStatus": "あり",
+      "salaryByRole": {
+        "engineer": "800万円",
+        "designer": "760万円",
+        "business": "720万円"
+      },
+      "mainSelection": {
+        "esDeadline": "",
+        "selectionFlow": "書類→技術課題→面接複数回→内定"
+      },
+      "internships": [
+        {
+          "id": "pixiv-intern-1",
+          "name": "エンジニア・デザイナーインターン",
+          "deadline": "",
+          "period": "随時",
+          "selectionFlow": "書類→課題→面接"
+        }
+      ]
     }
   ]
 }
