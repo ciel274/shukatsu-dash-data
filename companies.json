@@ -1,6 +1,6 @@
 {
-  "version": "2.7.0",
-  "updatedAt": "2026-07-04",
+  "version": "2.8.0",
+  "updatedAt": "2026-07-06",
   "note": "締切日・募集要項は変更される場合があります。各社公式サイトで必ずご確認ください。",
   "companies": [
     {
@@ -24849,6 +24849,1348 @@
           "selectionFlow": "ES→Webテスト→面接→内定"
         }
       ]
+    },
+    {
+      "id": "c440",
+      "companyName": "りそなホールディングス",
+      "reading": "りそなほーるでぃんぐす",
+      "industry": "finance",
+      "website": "https://www.resona-gr.co.jp",
+      "recruitUrl": "https://www.resona-gr.co.jp/holdings/career/",
+      "description": "りそな銀行・埼玉りそな銀行などを傘下に持つ地銀最大手グループ。リテール金融に強み。",
+      "businessAreas": [
+        "リテールバンキング",
+        "資産運用",
+        "信託"
+      ],
+      "avgSalary": 720,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28",
+        "openingDate": "2025-10-01"
+      },
+      "internships": []
+    },
+    {
+      "id": "c441",
+      "companyName": "商工中金",
+      "reading": "しょうこうちゅうきん",
+      "industry": "finance",
+      "website": "https://www.shokochukin.co.jp",
+      "recruitUrl": "https://www.shokochukin.co.jp/recruit/",
+      "description": "中小企業向け政府系金融機関。低利融資や経営支援を通じて中小企業を支援。",
+      "businessAreas": [
+        "融資",
+        "債券発行",
+        "経営支援"
+      ],
+      "avgSalary": 730,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c442",
+      "companyName": "日本政策金融公庫",
+      "reading": "にほんせいさくきんゆうこうこ",
+      "industry": "finance",
+      "website": "https://www.jfc.go.jp",
+      "recruitUrl": "https://www.jfc.go.jp/n/recruit/",
+      "description": "農林水産・中小企業・国民生活の三事業を担う政府系金融機関。安定したキャリアが魅力。",
+      "businessAreas": [
+        "融資",
+        "信用保証",
+        "海外展開支援"
+      ],
+      "avgSalary": 710,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-15"
+      },
+      "internships": []
+    },
+    {
+      "id": "c446",
+      "companyName": "三菱UFJリサーチ&コンサルティング",
+      "reading": "みつびしゆーえふじぇいりさーちあんどこんさるてぃんぐ",
+      "industry": "consult",
+      "website": "https://www.murc.jp",
+      "recruitUrl": "https://www.murc.jp/recruit/",
+      "description": "MUFGグループのシンクタンク。政策・経営・ITコンサルティングを幅広く手掛ける。",
+      "businessAreas": [
+        "経営コンサルティング",
+        "政策調査",
+        "ITコンサル"
+      ],
+      "avgSalary": 700,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c447",
+      "companyName": "大和総研",
+      "reading": "だいわそうけん",
+      "industry": "consult",
+      "website": "https://www.dir.co.jp",
+      "recruitUrl": "https://www.dir.co.jp/recruit/",
+      "description": "大和証券グループのシンクタンク。金融・経済調査、ITソリューション、コンサルの三本柱。",
+      "businessAreas": [
+        "金融調査",
+        "ITソリューション",
+        "経営コンサル"
+      ],
+      "avgSalary": 720,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c448",
+      "companyName": "みずほリサーチ&テクノロジーズ",
+      "reading": "みずほりさーちあんどてくのろじーず",
+      "industry": "consult",
+      "website": "https://www.mizuho-rt.co.jp",
+      "recruitUrl": "https://www.mizuho-rt.co.jp/recruit/",
+      "description": "みずほFGグループのシンクタンク兼ITベンダー。金融テクノロジーと政策調査を融合。",
+      "businessAreas": [
+        "ITソリューション",
+        "経済調査",
+        "DXコンサル"
+      ],
+      "avgSalary": 710,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c450",
+      "companyName": "Oliver Wyman",
+      "reading": "おりばーわいまん",
+      "industry": "consult",
+      "website": "https://www.oliverwyman.com/jp",
+      "recruitUrl": "https://www.oliverwyman.com/our-expertise/insights/careers.html",
+      "description": "金融・保険セクター特化の戦略コンサル。MMC（マーシュ・マクレナン）グループ。",
+      "businessAreas": [
+        "金融戦略",
+        "リスク管理",
+        "保険コンサル"
+      ],
+      "avgSalary": 1050,
+      "internStatus": "limited",
+      "mainSelection": {
+        "esDeadline": "2026-01-15"
+      },
+      "internships": []
+    },
+    {
+      "id": "c455",
+      "companyName": "平和不動産",
+      "reading": "へいわふどうさん",
+      "industry": "realestate",
+      "website": "https://www.heiwa-re.co.jp",
+      "recruitUrl": "https://www.heiwa-re.co.jp/company/recruit/",
+      "description": "証券取引所の施設運営を起源とする不動産会社。フィンテック拠点「兜町プロジェクト」で注目。",
+      "businessAreas": [
+        "オフィスビル",
+        "住宅",
+        "フィンテック拠点"
+      ],
+      "avgSalary": 750,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c458",
+      "companyName": "住友林業",
+      "reading": "すみともりんぎょう",
+      "industry": "construct",
+      "website": "https://sfc.jp",
+      "recruitUrl": "https://sfc.jp/recruit/",
+      "description": "木材・住宅・環境緑化を柱とする複合企業。木造建築技術と森林資源の有効活用で差別化。",
+      "businessAreas": [
+        "木造住宅",
+        "木材流通",
+        "環境緑化",
+        "海外事業"
+      ],
+      "avgSalary": 760,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c459",
+      "companyName": "SUBARU",
+      "reading": "すばる",
+      "industry": "maker_auto",
+      "website": "https://www.subaru.co.jp",
+      "recruitUrl": "https://www.subaru.co.jp/recruit/",
+      "description": "水平対向エンジンとAWDが強みの自動車メーカー。アイサイトなど安全技術でも高評価。",
+      "businessAreas": [
+        "自動車製造",
+        "航空宇宙機器",
+        "ロビン"
+      ],
+      "avgSalary": 770,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c463",
+      "companyName": "アドバンテスト",
+      "reading": "あどばんてすと",
+      "industry": "maker_elec",
+      "website": "https://www.advantest.com/ja",
+      "recruitUrl": "https://www.advantest.com/ja/careers/",
+      "description": "半導体テスト装置で世界シェアトップクラス。AI・5Gの普及に伴い需要拡大中。",
+      "businessAreas": [
+        "半導体テスター",
+        "計測器",
+        "IoT・AI応用"
+      ],
+      "avgSalary": 860,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-15"
+      },
+      "internships": []
+    },
+    {
+      "id": "c464",
+      "companyName": "日本電産（ニデック）",
+      "reading": "にほんでんさんにでっく",
+      "industry": "maker_elec",
+      "website": "https://www.nidec.com/ja-JP",
+      "recruitUrl": "https://www.nidec.com/ja-JP/careers/",
+      "description": "小型精密モーターで世界首位。EV用トラクションモーターや産業用モーターにも注力。",
+      "businessAreas": [
+        "精密小型モーター",
+        "車載部品",
+        "産業用モーター",
+        "電力インフラ"
+      ],
+      "avgSalary": 800,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c465",
+      "companyName": "安川電機",
+      "reading": "やすかわでんき",
+      "industry": "maker_elec",
+      "website": "https://www.yaskawa.co.jp",
+      "recruitUrl": "https://www.yaskawa.co.jp/recruit/",
+      "description": "産業用ロボット・サーボモーター・インバーターの大手。スマート工場のキーサプライヤー。",
+      "businessAreas": [
+        "産業用ロボット",
+        "モーション制御",
+        "システムエンジニアリング"
+      ],
+      "avgSalary": 790,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c469",
+      "companyName": "JFEホールディングス",
+      "reading": "じぇいえふいーほーるでぃんぐす",
+      "industry": "maker_other",
+      "website": "https://www.jfe-holdings.co.jp",
+      "recruitUrl": "https://www.jfe-holdings.co.jp/recruit/",
+      "description": "川崎製鉄とNKKが統合した鉄鋼大手。薄板・鋼管・エンジニアリング・都市環境まで手掛ける。",
+      "businessAreas": [
+        "鉄鋼",
+        "エンジニアリング",
+        "都市環境",
+        "貿易"
+      ],
+      "avgSalary": 810,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c470",
+      "companyName": "横浜ゴム",
+      "reading": "よこはまごむ",
+      "industry": "maker_other",
+      "website": "https://www.y-yokohama.com",
+      "recruitUrl": "https://www.y-yokohama.com/recruit/",
+      "description": "「ヨコハマ」ブランドのタイヤで知られる大手ゴムメーカー。産業資材・航空部品も展開。",
+      "businessAreas": [
+        "タイヤ",
+        "産業資材",
+        "ホース・ベルト",
+        "航空部品"
+      ],
+      "avgSalary": 740,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c471",
+      "companyName": "コベルコ建機",
+      "reading": "こべるこけんき",
+      "industry": "maker_other",
+      "website": "https://www.kobelco-kenki.co.jp",
+      "recruitUrl": "https://www.kobelco-kenki.co.jp/recruit/",
+      "description": "神戸製鋼グループの建設機械メーカー。油圧ショベルで国内外に高いブランド力を持つ。",
+      "businessAreas": [
+        "油圧ショベル",
+        "クレーン",
+        "林業機械"
+      ],
+      "avgSalary": 720,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c472",
+      "companyName": "ヤンマー",
+      "reading": "やんまー",
+      "industry": "maker_other",
+      "website": "https://www.yanmar.com/jp",
+      "recruitUrl": "https://www.yanmar.com/jp/careers/",
+      "description": "農業機械・建設機械・エンジンの総合メーカー。スマート農業の実現に向けた技術開発を推進。",
+      "businessAreas": [
+        "農業機械",
+        "建設機械",
+        "エンジン",
+        "エネルギー"
+      ],
+      "avgSalary": 730,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c473",
+      "companyName": "シマノ",
+      "reading": "しまの",
+      "industry": "maker_other",
+      "website": "https://www.shimano.com/ja",
+      "recruitUrl": "https://www.shimano.com/ja/content/shimano/global/careers.html",
+      "description": "自転車コンポーネントで世界シェア首位。釣具・ローイングも手掛け、世界155カ国で販売。",
+      "businessAreas": [
+        "自転車部品",
+        "釣具",
+        "ローイング用品"
+      ],
+      "avgSalary": 760,
+      "internStatus": "limited",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c477",
+      "companyName": "田辺三菱製薬",
+      "reading": "たなべみつびしせいやく",
+      "industry": "maker_pharma",
+      "website": "https://www.mt-pharma.co.jp",
+      "recruitUrl": "https://www.mt-pharma.co.jp/recruit/",
+      "description": "神経・自己免疫・ウイルス疾患に強みを持つ中堅製薬。「ベニロン」など免疫グロブリン製剤で存在感。",
+      "businessAreas": [
+        "医薬品",
+        "ワクチン",
+        "バイオ製剤"
+      ],
+      "avgSalary": 760,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c478",
+      "companyName": "大正製薬",
+      "reading": "たいしょうせいやく",
+      "industry": "maker_pharma",
+      "website": "https://www.taisho.co.jp",
+      "recruitUrl": "https://www.taisho.co.jp/recruit/",
+      "description": "「リポビタンD」「パブロン」など大衆薬で国内最大手。OTC医薬品からセルフメディケーションをリード。",
+      "businessAreas": [
+        "OTC医薬品",
+        "ヘルスケア",
+        "ビタミン剤",
+        "皮膚科"
+      ],
+      "avgSalary": 750,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c481",
+      "companyName": "東洋水産",
+      "reading": "とうようすいさん",
+      "industry": "maker_food",
+      "website": "https://www.maruchan.co.jp",
+      "recruitUrl": "https://www.maruchan.co.jp/recruit/",
+      "description": "「マルちゃん」ブランドで知られる即席麺・水産加工品メーカー。北米での「マルちゃん正麺」が人気。",
+      "businessAreas": [
+        "即席麺",
+        "冷凍食品",
+        "水産加工品",
+        "生鮮食品"
+      ],
+      "avgSalary": 720,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c482",
+      "companyName": "伊藤園",
+      "reading": "いとうえん",
+      "industry": "maker_food",
+      "website": "https://www.itoen.co.jp",
+      "recruitUrl": "https://www.itoen.co.jp/recruit/",
+      "description": "「お～いお茶」で知られる緑茶飲料国内首位。原料の自社管理から製造・販売まで一貫体制。",
+      "businessAreas": [
+        "緑茶飲料",
+        "農産加工品",
+        "海外事業"
+      ],
+      "avgSalary": 700,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c486",
+      "companyName": "コカ・コーラボトラーズジャパン",
+      "reading": "こかこーらぼとらーずじゃぱん",
+      "industry": "maker_food",
+      "website": "https://www.ccbji.co.jp",
+      "recruitUrl": "https://www.ccbji.co.jp/recruit/",
+      "description": "コカ・コーラ製品の国内最大のボトラー。自動販売機100万台超を展開、デジタル化も推進。",
+      "businessAreas": [
+        "清涼飲料水製造",
+        "自動販売機",
+        "流通・物流"
+      ],
+      "avgSalary": 660,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c488",
+      "companyName": "セブン&アイ・ホールディングス",
+      "reading": "せぶんあんどあいほーるでぃんぐす",
+      "industry": "retail",
+      "website": "https://www.7andi.com",
+      "recruitUrl": "https://www.7andi.com/recruit/",
+      "description": "「セブン-イレブン」世界最大のコンビニ持株会社。イトーヨーカドー・そごう西武も傘下に持つ。",
+      "businessAreas": [
+        "コンビニ",
+        "総合スーパー",
+        "百貨店",
+        "金融"
+      ],
+      "avgSalary": 700,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c493",
+      "companyName": "西松屋チェーン",
+      "reading": "にしまつやちぇーん",
+      "industry": "retail",
+      "website": "https://www.24028.jp",
+      "recruitUrl": "https://www.24028.jp/recruit/",
+      "description": "全国1000店超の子供・ベビー用品専門チェーン。ローコスト運営と郊外立地戦略で安定成長。",
+      "businessAreas": [
+        "子供服",
+        "ベビー用品",
+        "マタニティ"
+      ],
+      "avgSalary": 620,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-03-15"
+      },
+      "internships": []
+    },
+    {
+      "id": "c494",
+      "companyName": "ツルハホールディングス",
+      "reading": "つるはほーるでぃんぐす",
+      "industry": "retail",
+      "website": "https://www.tsuruha.co.jp",
+      "recruitUrl": "https://www.tsuruha.co.jp/recruit/",
+      "description": "北海道発祥のドラッグストア大手。全国2900店超展開し、ウエルシアと経営統合協議中。",
+      "businessAreas": [
+        "ドラッグストア",
+        "調剤薬局",
+        "化粧品・日用品"
+      ],
+      "avgSalary": 630,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-03-15"
+      },
+      "internships": []
+    },
+    {
+      "id": "c495",
+      "companyName": "出光興産",
+      "reading": "いでみつこうさん",
+      "industry": "energy",
+      "website": "https://www.idemitsu.com/jp",
+      "recruitUrl": "https://www.idemitsu.com/jp/careers/",
+      "description": "石油元売り大手。昭和シェルと統合し全国シェアを拡大。再エネ・バッテリー材料へ転換中。",
+      "businessAreas": [
+        "石油製品",
+        "再生可能エネルギー",
+        "電気",
+        "バッテリー材料"
+      ],
+      "avgSalary": 820,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-15"
+      },
+      "internships": []
+    },
+    {
+      "id": "c499",
+      "companyName": "佐川急便（SGホールディングス）",
+      "reading": "さがわきゅうびんえすじーほーるでぃんぐす",
+      "industry": "logistics",
+      "website": "https://www.sg-hd.co.jp",
+      "recruitUrl": "https://www.sg-hd.co.jp/recruit/",
+      "description": "「飛脚」ブランドで宅配便大手。法人向け宅配を強みとし、3PLや倉庫事業も成長中。",
+      "businessAreas": [
+        "宅配",
+        "3PL",
+        "倉庫",
+        "国際物流"
+      ],
+      "avgSalary": 670,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c501",
+      "companyName": "三菱ロジスネクスト",
+      "reading": "みつびしろじすねくすと",
+      "industry": "logistics",
+      "website": "https://www.mitsubishilogisnext.com",
+      "recruitUrl": "https://www.mitsubishilogisnext.com/careers/",
+      "description": "三菱重工系のフォークリフト・マテリアルハンドリング専業大手。物流自動化ソリューションを提供。",
+      "businessAreas": [
+        "フォークリフト",
+        "倉庫自動化",
+        "物流システム"
+      ],
+      "avgSalary": 710,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c502",
+      "companyName": "バンダイナムコホールディングス",
+      "reading": "ばんだいなむこほーるでぃんぐす",
+      "industry": "game",
+      "website": "https://www.bandainamco.co.jp",
+      "recruitUrl": "https://www.bandainamco.co.jp/careers/",
+      "description": "「ガンダム」「テイルズ」「アイドルマスター」等の有力IP保有。おもちゃ・アミューズメントも展開。",
+      "businessAreas": [
+        "ゲーム",
+        "玩具",
+        "アミューズメント",
+        "映像・音楽"
+      ],
+      "avgSalary": 770,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-15"
+      },
+      "internships": []
+    },
+    {
+      "id": "c503",
+      "companyName": "セガサミーホールディングス",
+      "reading": "せがさみーほーるでぃんぐす",
+      "industry": "game",
+      "website": "https://www.segasammy.co.jp",
+      "recruitUrl": "https://www.segasammy.co.jp/careers/",
+      "description": "セガ（ゲーム）とサミー（パチンコ）の統合持株会社。「ソニック」等のIPを世界展開する。",
+      "businessAreas": [
+        "コンシューマーゲーム",
+        "アーケードゲーム",
+        "パチンコ・スロット",
+        "アミューズメント施設"
+      ],
+      "avgSalary": 750,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-15"
+      },
+      "internships": []
+    },
+    {
+      "id": "c504",
+      "companyName": "コーエーテクモホールディングス",
+      "reading": "こーえーてくもほーるでぃんぐす",
+      "industry": "game",
+      "website": "https://www.koeitecmo.co.jp",
+      "recruitUrl": "https://www.koeitecmo.co.jp/recruit/",
+      "description": "「三國志」「信長の野望」「Dead or Alive」等のIPを持つゲーム会社。SaaS・ホテル事業も。",
+      "businessAreas": [
+        "コンシューマーゲーム",
+        "スマホゲーム",
+        "SaaS",
+        "ホテル"
+      ],
+      "avgSalary": 740,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c505",
+      "companyName": "gumi",
+      "reading": "ぐみ",
+      "industry": "game",
+      "website": "https://gu3.co.jp",
+      "recruitUrl": "https://gu3.co.jp/recruit/",
+      "description": "「ブレイブフロンティア」等のスマホゲーム大手。Web3ゲームやブロックチェーン領域にも先行投資。",
+      "businessAreas": [
+        "スマホゲーム",
+        "Web3ゲーム",
+        "メタバース"
+      ],
+      "avgSalary": 680,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-03-15"
+      },
+      "internships": []
+    },
+    {
+      "id": "c506",
+      "companyName": "KLab",
+      "reading": "けーらぼ",
+      "industry": "game",
+      "website": "https://www.klab.com/jp",
+      "recruitUrl": "https://www.klab.com/jp/careers/",
+      "description": "「キャプテン翼」「Love Live! School idol festival」など人気IPのスマホゲームを開発・運営。",
+      "businessAreas": [
+        "スマホゲーム",
+        "IP活用タイトル",
+        "海外展開"
+      ],
+      "avgSalary": 660,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-03-15"
+      },
+      "internships": []
+    },
+    {
+      "id": "c507",
+      "companyName": "Aiming",
+      "reading": "えいみんぐ",
+      "industry": "game",
+      "website": "https://aiming-inc.com",
+      "recruitUrl": "https://aiming-inc.com/careers/",
+      "description": "「剣と魔法のログレス」等のスマホオンラインRPG専門スタジオ。技術力の高さで開発者採用に強み。",
+      "businessAreas": [
+        "スマホゲーム",
+        "オンラインRPG",
+        "技術研究"
+      ],
+      "avgSalary": 650,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-03-31"
+      },
+      "internships": []
+    },
+    {
+      "id": "c508",
+      "companyName": "Visional（ビジョナル）",
+      "reading": "びじょなる",
+      "industry": "web",
+      "website": "https://www.visional.inc",
+      "recruitUrl": "https://www.visional.inc/ja/careers.html",
+      "description": "「ビズリーチ」「HRMOS」を展開するHRテックグループ。即戦力採用SaaSの国内リーダー。",
+      "businessAreas": [
+        "HR Tech",
+        "転職プラットフォーム",
+        "採用管理SaaS",
+        "M&Aクラウド"
+      ],
+      "avgSalary": 850,
+      "internStatus": "available",
+      "internships": [
+        {
+          "id": "i508a",
+          "name": "サマーインターン",
+          "deadline": "2026-07-31",
+          "period": "2days",
+          "selectionFlow": "書類→面接"
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-02-15"
+      }
+    },
+    {
+      "id": "c516",
+      "companyName": "KADOKAWA",
+      "reading": "かどかわ",
+      "industry": "media",
+      "website": "https://group.kadokawa.co.jp",
+      "recruitUrl": "https://group.kadokawa.co.jp/career/",
+      "description": "出版・映像・ゲーム・教育が融合したコンテンツ複合企業。「ニコニコ動画」「角川映画」等のIPが豊富。",
+      "businessAreas": [
+        "出版",
+        "映像",
+        "ゲーム",
+        "教育",
+        "デジタルプラットフォーム"
+      ],
+      "avgSalary": 730,
+      "internStatus": "available",
+      "internships": [
+        {
+          "id": "i516a",
+          "name": "サマーインターン",
+          "deadline": "2026-07-18",
+          "period": "2days",
+          "selectionFlow": "書類→面接"
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-02-15"
+      }
+    },
+    {
+      "id": "c517",
+      "companyName": "富士ソフト",
+      "reading": "ふじそふと",
+      "industry": "it",
+      "website": "https://www.fsi.co.jp",
+      "recruitUrl": "https://www.fsi.co.jp/recruit/",
+      "description": "組込み系・業務系SIに強みを持つ独立系SIer。ロボット・IoT分野でも存在感を高める。",
+      "businessAreas": [
+        "組込みソフト",
+        "業務システム",
+        "ロボット・IoT",
+        "AI開発"
+      ],
+      "avgSalary": 680,
+      "internStatus": "available",
+      "internships": [
+        {
+          "id": "i517a",
+          "name": "サマーインターン",
+          "deadline": "2026-07-31",
+          "period": "2days",
+          "selectionFlow": "エントリー→面接"
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-03-15"
+      }
+    },
+    {
+      "id": "c518",
+      "companyName": "電通デジタル",
+      "reading": "でんつうでじたる",
+      "industry": "it",
+      "website": "https://www.dentsudigital.co.jp",
+      "recruitUrl": "https://www.dentsudigital.co.jp/recruit/",
+      "description": "電通グループのデジタルマーケティング専門会社。データドリブンマーケとDXコンサルを融合。",
+      "businessAreas": [
+        "デジタルマーケティング",
+        "DXコンサル",
+        "データ分析",
+        "クリエイティブテック"
+      ],
+      "avgSalary": 780,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c519",
+      "companyName": "サイバーエージェント（AIAd）",
+      "reading": "さいばーえーじぇんとえーあいえーでぃ",
+      "industry": "it",
+      "website": "https://www.cyberagent.co.jp",
+      "recruitUrl": "https://www.cyberagent.co.jp/careers/",
+      "description": "「ABEMA」「Ameba」を運営するサイバーエージェントのAI広告技術子会社。生成AI活用が先行。",
+      "businessAreas": [
+        "AI広告",
+        "DSP",
+        "マーケティングSaaS"
+      ],
+      "avgSalary": 800,
+      "internStatus": "available",
+      "internships": [
+        {
+          "id": "i519a",
+          "name": "技術サマーインターン",
+          "deadline": "2026-07-15",
+          "period": "5days",
+          "selectionFlow": "書類→コーディング→面接"
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-02-15"
+      }
+    },
+    {
+      "id": "c520",
+      "companyName": "ウイングアーク1st",
+      "reading": "うぃんぐあーくわんすと",
+      "industry": "it",
+      "website": "https://www.wingarc.com",
+      "recruitUrl": "https://www.wingarc.com/careers/",
+      "description": "帳票・BIクラウドで国内トップ。「Dr.Sum」「MotionBoard」のデータ活用基盤を1万社超に提供。",
+      "businessAreas": [
+        "帳票SaaS",
+        "BI・データ分析",
+        "クラウド"
+      ],
+      "avgSalary": 720,
+      "internStatus": "available",
+      "internships": [
+        {
+          "id": "i520a",
+          "name": "サマーインターン",
+          "deadline": "2026-07-25",
+          "period": "3days",
+          "selectionFlow": "エントリー→面接"
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      }
+    },
+    {
+      "id": "c521",
+      "companyName": "NTT西日本",
+      "reading": "えぬてぃーてぃーにしにほん",
+      "industry": "telecom",
+      "website": "https://www.ntt-west.co.jp",
+      "recruitUrl": "https://www.ntt-west.co.jp/recruit/",
+      "description": "西日本地域の固定通信インフラを担うNTTグループ企業。DXソリューションや地域ICT推進も展開。",
+      "businessAreas": [
+        "固定通信",
+        "法人ICTソリューション",
+        "DX支援",
+        "地域創生"
+      ],
+      "avgSalary": 720,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c523",
+      "companyName": "Oracle Japan",
+      "reading": "おらくるじゃぱん",
+      "industry": "it",
+      "website": "https://www.oracle.com/jp",
+      "recruitUrl": "https://www.oracle.com/jp/corporate/careers/",
+      "description": "ERP・データベース・クラウドインフラの世界大手。OCI（Oracle Cloud）への移行を積極的に推進中。",
+      "businessAreas": [
+        "クラウドインフラ",
+        "ERP",
+        "データベース",
+        "HCM"
+      ],
+      "avgSalary": 900,
+      "internStatus": "limited",
+      "mainSelection": {
+        "esDeadline": "2026-02-15"
+      },
+      "internships": []
+    },
+    {
+      "id": "c525",
+      "companyName": "日本IBMコンサルティング",
+      "reading": "にほんあいびーえむこんさるてぃんぐ",
+      "industry": "consult",
+      "website": "https://www.ibm.com/jp-ja",
+      "recruitUrl": "https://www.ibm.com/jp-ja/careers",
+      "description": "IBMジャパンのコンサルティング部門。AIとハイブリッドクラウドを活用した企業変革を支援。",
+      "businessAreas": [
+        "戦略コンサル",
+        "テクノロジーコンサル",
+        "AIコンサル",
+        "SAP導入"
+      ],
+      "avgSalary": 850,
+      "internStatus": "available",
+      "internships": [
+        {
+          "id": "i525a",
+          "name": "サマーインターン",
+          "deadline": "2026-07-18",
+          "period": "3days",
+          "selectionFlow": "書類→面接"
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-02-15"
+      }
+    },
+    {
+      "id": "c527",
+      "companyName": "三菱電機インフォメーションネットワーク",
+      "reading": "みつびしでんきいんふぉめーしょんねっとわーく",
+      "industry": "it",
+      "website": "https://www.mind.co.jp",
+      "recruitUrl": "https://www.mind.co.jp/recruit/",
+      "description": "三菱電機グループのネットワーク・セキュリティ専門SIer。製造・官公庁向けに強み。",
+      "businessAreas": [
+        "ネットワーク",
+        "セキュリティ",
+        "クラウド",
+        "マネージドサービス"
+      ],
+      "avgSalary": 700,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-03-15"
+      },
+      "internships": []
+    },
+    {
+      "id": "c528",
+      "companyName": "コグニザント・テクノロジー・ソリューションズ",
+      "reading": "こぐにざんとてくのろじーそりゅーしょんず",
+      "industry": "it",
+      "website": "https://www.cognizant.com/jp",
+      "recruitUrl": "https://www.cognizant.com/jp/ja/careers",
+      "description": "インド系グローバルITサービス企業。デジタルエンジニアリング・AI・クラウド移行支援に強み。",
+      "businessAreas": [
+        "デジタルエンジニアリング",
+        "AI開発",
+        "クラウド移行",
+        "BPO"
+      ],
+      "avgSalary": 750,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-03-15"
+      },
+      "internships": []
+    },
+    {
+      "id": "c531",
+      "companyName": "カオナビ",
+      "reading": "かおなび",
+      "industry": "web",
+      "website": "https://corp.kaonavi.jp",
+      "recruitUrl": "https://corp.kaonavi.jp/recruit/",
+      "description": "タレントマネジメントSaaS「カオナビ」を提供。人材情報の可視化で上場企業を中心に3000社超導入。",
+      "businessAreas": [
+        "タレントマネジメント",
+        "人材情報SaaS",
+        "人事DX"
+      ],
+      "avgSalary": 720,
+      "internStatus": "available",
+      "internships": [
+        {
+          "id": "i531a",
+          "name": "サマーインターン",
+          "deadline": "2026-07-31",
+          "period": "2days",
+          "selectionFlow": "エントリー→面接"
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      }
+    },
+    {
+      "id": "c532",
+      "companyName": "BIPROGYデジタル",
+      "reading": "びぷろじーでじたる",
+      "industry": "it",
+      "website": "https://www.biprogy.com",
+      "recruitUrl": "https://www.biprogy.com/careers/",
+      "description": "旧日本ユニシスグループのデジタル専門会社。金融・流通向け基幹系から先端デジタルまで対応。",
+      "businessAreas": [
+        "DXコンサル",
+        "システム開発",
+        "AI・データ分析",
+        "クラウド"
+      ],
+      "avgSalary": 730,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-03-15"
+      },
+      "internships": []
+    },
+    {
+      "id": "c533",
+      "companyName": "Uzabase（ユーザベース）",
+      "reading": "ゆーざべーす",
+      "industry": "web",
+      "website": "https://www.uzabase.com",
+      "recruitUrl": "https://www.uzabase.com/careers/",
+      "description": "「SPEEDA」「INITIAL」「NewsPicksなど経済情報SaaSを展開。BtoBとBtoC両軸で成長するメディア×テック企業。",
+      "businessAreas": [
+        "経済情報SaaS",
+        "スタートアップデータ",
+        "ニュースメディア"
+      ],
+      "avgSalary": 760,
+      "internStatus": "available",
+      "internships": [
+        {
+          "id": "i533a",
+          "name": "サマーインターン",
+          "deadline": "2026-07-20",
+          "period": "2days",
+          "selectionFlow": "書類→面接"
+        }
+      ],
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      }
+    },
+    {
+      "id": "c536",
+      "companyName": "WOWOW",
+      "reading": "わうわう",
+      "industry": "media",
+      "website": "https://www.wowow.co.jp",
+      "recruitUrl": "https://www.wowow.co.jp/recruit/",
+      "description": "日本初の有料衛星放送。映画・スポーツ・音楽コンテンツを独自ラインナップで提供するプレミアムチャンネル。",
+      "businessAreas": [
+        "有料衛星放送",
+        "コンテンツ制作",
+        "動画配信",
+        "スポーツ中継"
+      ],
+      "avgSalary": 810,
+      "internStatus": "limited",
+      "mainSelection": {
+        "esDeadline": "2026-02-15"
+      },
+      "internships": []
+    },
+    {
+      "id": "c537",
+      "companyName": "東映",
+      "reading": "とうえい",
+      "industry": "media",
+      "website": "https://www.toei.co.jp",
+      "recruitUrl": "https://www.toei.co.jp/recruit/",
+      "description": "「仮面ライダー」「スーパー戦隊」「東映アニメーション」等のIPを持つ映画・映像大手。",
+      "businessAreas": [
+        "映画製作",
+        "アニメーション",
+        "テレビ",
+        "テーマパーク"
+      ],
+      "avgSalary": 790,
+      "internStatus": "limited",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c539",
+      "companyName": "近畿日本鉄道（近鉄）",
+      "reading": "きんきにほんてつどう",
+      "industry": "transport",
+      "website": "https://www.kintetsu.jp",
+      "recruitUrl": "https://www.kintetsu-group.co.jp/recruit/",
+      "description": "私鉄最長の路線網を持つ近畿圏最大の鉄道会社。近鉄百貨店・不動産・ホテルも傘下に持つ。",
+      "businessAreas": [
+        "鉄道",
+        "百貨店",
+        "不動産",
+        "ホテル"
+      ],
+      "avgSalary": 670,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c542",
+      "companyName": "川崎汽船",
+      "reading": "かわさききせん",
+      "industry": "transport",
+      "website": "https://www.kline.co.jp",
+      "recruitUrl": "https://www.kline.co.jp/recruit/",
+      "description": "日本3大海運の一角。コンテナ・ドライバルク・エネルギー輸送を世界展開するグローバル海運企業。",
+      "businessAreas": [
+        "コンテナ輸送",
+        "ドライバルク",
+        "エネルギー輸送",
+        "ターミナル"
+      ],
+      "avgSalary": 880,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-15"
+      },
+      "internships": []
+    },
+    {
+      "id": "c543",
+      "companyName": "損害保険ジャパン",
+      "reading": "そんがいほけんじゃぱん",
+      "industry": "insurance",
+      "website": "https://www.sompo-japan.co.jp",
+      "recruitUrl": "https://www.sompo-japan.co.jp/recruit/",
+      "description": "SOMPOホールディングス傘下の損害保険最大手。デジタルで保険業界変革を目指す「デジタル保険会社」構想を推進。",
+      "businessAreas": [
+        "損害保険",
+        "介護",
+        "デジタル保険",
+        "海外保険"
+      ],
+      "avgSalary": 800,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c545",
+      "companyName": "岩谷産業",
+      "reading": "いわたにさんぎょう",
+      "industry": "energy",
+      "website": "https://www.iwatani.co.jp",
+      "recruitUrl": "https://www.iwatani.co.jp/recruit/",
+      "description": "LPガス・水素の専門商社。水素エネルギーインフラの構築で業界をリードする脱炭素関連の注目企業。",
+      "businessAreas": [
+        "LPガス",
+        "水素",
+        "産業ガス",
+        "マテリアル"
+      ],
+      "avgSalary": 740,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c547",
+      "companyName": "住友製薬",
+      "reading": "すみともせいやく",
+      "industry": "maker_pharma",
+      "website": "https://www.sumitomo-pharma.co.jp",
+      "recruitUrl": "https://www.sumitomo-pharma.co.jp/recruit/",
+      "description": "精神神経・がん・希少疾患領域の中堅製薬。再生医療等製品「ドナキューセル」を開発・販売。",
+      "businessAreas": [
+        "精神神経",
+        "がん",
+        "希少疾患",
+        "再生医療"
+      ],
+      "avgSalary": 800,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-15"
+      },
+      "internships": []
+    },
+    {
+      "id": "c549",
+      "companyName": "明治グループ（明治HD）",
+      "reading": "めいじほーるでぃんぐす",
+      "industry": "maker_food",
+      "website": "https://www.meiji.com",
+      "recruitUrl": "https://www.meiji.com/recruit/",
+      "description": "「明治チョコレート」「明治ブルガリアヨーグルト」など食品・菓子事業と、医薬品事業を持つ複合グループ。",
+      "businessAreas": [
+        "菓子・食品",
+        "乳製品",
+        "医薬品",
+        "スポーツ栄養"
+      ],
+      "avgSalary": 730,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c555",
+      "companyName": "古河電気工業",
+      "reading": "ふるかわでんきこうぎょう",
+      "industry": "maker_other",
+      "website": "https://www.furukawa.co.jp",
+      "recruitUrl": "https://www.furukawa.co.jp/recruit/",
+      "description": "電線・光ファイバー・自動車部品を軸とするグローバルメーカー。EV用ワイヤーハーネスで需要拡大。",
+      "businessAreas": [
+        "電線・ケーブル",
+        "光ファイバー",
+        "自動車部品",
+        "放熱材料"
+      ],
+      "avgSalary": 760,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c556",
+      "companyName": "日本製紙",
+      "reading": "にほんせいし",
+      "industry": "maker_other",
+      "website": "https://www.nipponpapergroup.com",
+      "recruitUrl": "https://www.nipponpapergroup.com/recruit/",
+      "description": "製紙国内2位。紙・パルプだけでなく木材・エネルギー・医薬品包材など幅広い事業展開。",
+      "businessAreas": [
+        "紙・パルプ",
+        "機能性材料",
+        "木材",
+        "エネルギー"
+      ],
+      "avgSalary": 720,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c557",
+      "companyName": "王子ホールディングス",
+      "reading": "おうじほーるでぃんぐす",
+      "industry": "maker_other",
+      "website": "https://www.ojihd.co.jp",
+      "recruitUrl": "https://www.ojihd.co.jp/recruit/",
+      "description": "製紙国内首位。パッケージング・機能材・資源環境など多角展開するグローバル製紙グループ。",
+      "businessAreas": [
+        "印刷情報用紙",
+        "パッケージング",
+        "機能材",
+        "資源環境"
+      ],
+      "avgSalary": 730,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-28"
+      },
+      "internships": []
+    },
+    {
+      "id": "c558",
+      "companyName": "ENEOS",
+      "reading": "えねおす",
+      "industry": "energy",
+      "website": "https://www.eneos.co.jp",
+      "recruitUrl": "https://www.eneos.co.jp/recruit/",
+      "description": "石油元売り国内最大手。ガソリンスタンド1万カ所超を展開し、再生可能エネルギー・水素事業にも注力。",
+      "businessAreas": [
+        "石油精製・販売",
+        "再生可能エネルギー",
+        "石油化学",
+        "水素・アンモニア"
+      ],
+      "avgSalary": 840,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-02-15"
+      },
+      "internships": []
+    },
+    {
+      "id": "c560",
+      "companyName": "東芝デジタルソリューションズ",
+      "reading": "とうしばでじたるそりゅーしょんず",
+      "industry": "it",
+      "website": "https://www.toshiba-sol.co.jp",
+      "recruitUrl": "https://www.toshiba-sol.co.jp/recruit/",
+      "description": "東芝グループのITサービス会社。製造業向けIoT・AI・セキュリティソリューションに特化。",
+      "businessAreas": [
+        "製造業DX",
+        "IoT",
+        "AI",
+        "セキュリティ"
+      ],
+      "avgSalary": 700,
+      "internStatus": "available",
+      "mainSelection": {
+        "esDeadline": "2026-03-15"
+      },
+      "internships": []
     }
   ]
 }
